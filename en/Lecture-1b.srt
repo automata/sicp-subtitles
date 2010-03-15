@@ -1,0 +1,59 @@
+﻿1
+00:00:14,336 --> 00:00:15,798
+hi
+
+2
+00:00:16,048 --> 00:00:18,544
+you've seen the job of a programmer
+
+3
+00:00:18,794 --> 00:00:22,619
+is to design processes with couples of particular goals
+
+4
+00:00:23,786 --> 00:00:25,694
+satisfying to square two numbers
+
+5
+00:00:25,944 --> 00:00:28,675
+or other sort of things if we wanna do
+
+6
+00:00:28,925 --> 00:00:30,877
+we haven't introduced anything else yet heh :-)
+
+7
+00:00:31,127 --> 00:00:35,824
+of course the way each programmers does this
+is by constructing spels
+
+8
+00:00:36,074 --> 00:00:39,574
+which are constructed out of
+procedures and expressions
+
+9
+00:00:39,824 --> 00:00:43,324
+and these spels are a
+
+10
+00:00:43,574 --> 00:00:45,515
+somehow directly processes
+
+11
+00:00:45,765 --> 00:00:47,870
+to accomplish the goal those are
+atempted by the programmer
+
+12
+00:00:49,063 --> 00:00:51,062
+0
+
+13
+00:00:51,312 --> 00:00:52,937
+yes understanding the relationship
+
+14
+00:00:53,187 --> 00:00:56,687
+
+
