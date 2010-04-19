@@ -1,333 +1,333 @@
-1
-00:00:14,325 --> 00:00:17,723
+﻿1
+00:00:14,320 --> 00:00:17,720
 Eu gostaria de dar boas vindas
 a este curso de Ciência da Computação.
 
 2
-00:00:27,967 --> 00:00:29,782
-Atualmente, esse é um jeito terrível de começar.
+00:00:27,960 --> 00:00:29,780
+Na realidade, esse é um jeito terrível de começar.
 
 3
-00:00:30,088 --> 00:00:31,922
+00:00:30,080 --> 00:00:31,920
 Ciência da Computação
 é um nome terrível para este negócio.
 
 4
-00:00:32,288 --> 00:00:35,023
+00:00:32,280 --> 00:00:35,020
 Para começar isso não é Ciência.
 
 5
-00:00:36,308 --> 00:00:39,341
+00:00:36,300 --> 00:00:39,340
 Isso pode ser talvez engenharia...
 ou talvez arte...
 
 6
-00:00:39,803 --> 00:00:41,597
+00:00:39,800 --> 00:00:41,590
 Ou nós atualmente vemos a computação...
 
 7
-00:00:41,921 --> 00:00:44,700
-comunmente chamda de 'ciência'...
-atualmente tem muito mais em comum com a mágiina.
+00:00:41,920 --> 00:00:44,700
+geralmente chamada de 'ciência'...
+na verdade tem muito mais em comum com a mágica.
 
 8
-00:00:44,996 --> 00:00:46,287
+00:00:44,990 --> 00:00:46,280
 Nós veremos isso neste curso.
 
 9
-00:00:47,231 --> 00:00:52,370
+00:00:47,230 --> 00:00:52,370
 Portanto isso não é ciência. E isso
 também não é muito sobre computadores.
 
 10
-00:00:53,589 --> 00:00:55,986
+00:00:53,580 --> 00:00:55,980
 E isso não é sobre computadores
 da mesma maneira que...
 
 11
-00:00:56,543 --> 00:01:00,016
+00:00:56,540 --> 00:01:00,010
 a Física não é realmente
 sobre aceleradores de partículas...
 
 12
-00:01:00,372 --> 00:01:05,465
+00:01:00,370 --> 00:01:05,460
 e Biologia não é realmente
 sobre microscópios e placas de Petri.
 
 13
-00:01:05,993 --> 00:01:11,208
+00:01:05,990 --> 00:01:11,200
 e não é sobre computadores
 da mesma forma que a geometria
 
 14
-00:01:11,631 --> 00:01:15,210
+00:01:11,630 --> 00:01:15,210
 não é realmente sobre
 usar instrumentos de medida.
 
 15
-00:01:16,225 --> 00:01:20,680
+00:01:16,220 --> 00:01:20,680
 Na verdade existe muita ligação
 entre a ciência da computação e a geometria.
 
 16
-00:01:21,081 --> 00:01:25,063
+00:01:21,080 --> 00:01:25,060
 Para começar a Geometria
 é outro campo com um nome ruim.
 
 17
-00:01:25,794 --> 00:01:29,206
+00:01:25,790 --> 00:01:29,200
 O nome vem de 'Gaia' que significa
 terra e 'Metro' que significa medida.
 
 18
-00:01:29,722 --> 00:01:33,237
+00:01:29,720 --> 00:01:33,230
 Geometria originalmente significa
 medir a terra... ou agrimensura.
 
 19
-00:01:34,231 --> 00:01:36,915
+00:01:34,230 --> 00:01:36,910
 E a razão para isso foi que
-há milhares de anos atrás
+há milhares de anos 
 
 20
-00:01:37,518 --> 00:01:41,684
+00:01:37,510 --> 00:01:41,680
 os sacerdotes egípcios
 desenvolveram rudimentos da geometria
 
 21
-00:01:42,348 --> 00:01:44,706
+00:01:42,340 --> 00:01:44,700
 com o objetivo de descobrir como restaurar
 
 22
-00:01:45,228 --> 00:01:48,367
-os limites dos campos que eram distruídos
+00:01:45,220 --> 00:01:48,360
+os limites dos campos que eram destruídos
 nas enchentes anuais do Nilo.
 
 23
-00:01:49,014 --> 00:01:51,764
+00:01:49,010 --> 00:01:51,760
 E para os egípcios que fizeram isso
 a geometria era realmente
 
 24
-00:01:52,186 --> 00:01:53,880
+00:01:52,180 --> 00:01:53,880
 o uso de instrumentos de medida.
 
 25
-00:01:55,529 --> 00:01:58,322
+00:01:55,520 --> 00:01:58,320
 Agora, a razão pela qual nós pensamos que
 a ciência da computação é sobre computadores
 
 26
-00:01:58,669 --> 00:02:00,424
+00:01:58,660 --> 00:02:00,420
 é bem parecida com a mesma razão
 
 27
-00:02:00,983 --> 00:02:03,743
+00:02:00,980 --> 00:02:03,740
 pela qual os egípcios pensaram que a geometria
 era sobre instrumentos de medida.
 
 28
-00:02:04,399 --> 00:02:05,623
+00:02:04,390 --> 00:02:05,620
 E isso acontece quando
 
 29
-00:02:06,009 --> 00:02:09,715
+00:02:06,000 --> 00:02:09,710
 algumas áreas estão ainda começando e
 você não as entende realmente bem
 
 30
-00:02:11,023 --> 00:02:14,079
+00:02:11,020 --> 00:02:14,070
 é muito fácil de confundir
 a essência do que você está fazendo
 
 31
-00:02:14,660 --> 00:02:16,068
+00:02:14,660 --> 00:02:16,060
 com as ferramentas que você usa.
 
 32
-00:02:17,216 --> 00:02:21,796
+00:02:17,210 --> 00:02:21,790
 E realmente em algumas escalas
 nós provavelmente conhecemos menos
 
 33
-00:02:22,269 --> 00:02:24,486
-sobre a excência da ciência da computação
+00:02:22,260 --> 00:02:24,480
+sobre a essência da ciência da computação
 
 34
-00:02:24,943 --> 00:02:27,376
+00:02:24,940 --> 00:02:27,370
 do que os antigos egípcios
 realmente conheciam sobre geometria.
 
 35
-00:02:29,675 --> 00:02:32,248
+00:02:29,670 --> 00:02:32,240
 Bem, o que eu quero dizer
-sobre a excência da ciência da computação,
+sobre a essência da ciência da computação,
 
 36
-00:02:32,549 --> 00:02:33,549
+00:02:32,540 --> 00:02:33,540
 o que eu quero dizer sobre
-a excência da geometria...
+a essência da geometria...
 
 37
-00:02:34,066 --> 00:02:37,367
+00:02:34,060 --> 00:02:37,360
 Vejam, é realmente verdade que os
 egípcios frequentemente usavam instrumentos de medida.
 
 38
-00:02:37,761 --> 00:02:39,390
+00:02:37,760 --> 00:02:39,390
 Mas quando nós olhamos para eles agora
 
 39
-00:02:40,072 --> 00:02:42,820
+00:02:40,070 --> 00:02:42,820
 depois de alguns milhares de anos nós dizemos
 "Caraca! O quê eles estavam fazendo?"
 
 40
-00:02:43,556 --> 00:02:47,475
-A importante tarefa que eles estavam tomando
+00:02:43,550 --> 00:02:47,470
+A importante tarefa que eles estavam fazendo
 era começar a formalizar
 
 41
-00:02:48,141 --> 00:02:50,993
+00:02:48,140 --> 00:02:50,990
 noções sobre espaço e tempo.
 
 42
-00:02:51,328 --> 00:02:55,031
+00:02:51,320 --> 00:02:55,030
 Para começar um jeito de falarmos sobre...
 
 43
-00:02:55,574 --> 00:03:00,062
+00:02:55,570 --> 00:03:00,060
 a verdade matemática formal que nos leva
 para o método axiomático, que nos leva para...
 
 44
-00:03:00,646 --> 00:03:02,505
+00:03:00,640 --> 00:03:02,500
 todo o tipo de matemática moderna.
 
 45
-00:03:04,055 --> 00:03:08,735
+00:03:04,050 --> 00:03:08,730
 Encontrar uma forma para expressarmos precisamente
 o tão falado conhecimento 'declarativo'...
 
 46
-00:03:09,164 --> 00:03:11,191
+00:03:09,160 --> 00:03:11,190
 'o que é verdade'.
 
 47
-00:03:12,514 --> 00:03:15,842
+00:03:12,510 --> 00:03:15,840
 Bem, de maneira similar, eu acho que no futuro
 as pessoas irão olhar para trás e dizer,
 
 48
-00:03:16,243 --> 00:03:18,235
+00:03:16,240 --> 00:03:18,230
 sim, aqueles
-primitas do século vinte
+primitivos do século vinte
 
 49
-00:03:18,537 --> 00:03:20,979
+00:03:18,530 --> 00:03:20,970
 ficavam brincando
 com coisas chamadas computadores,
 
 50
-00:03:21,527 --> 00:03:23,332
+00:03:21,520 --> 00:03:23,330
 mas na realidade o que eles estavam fazendo
 
 51
-00:03:23,746 --> 00:03:27,333
+00:03:23,740 --> 00:03:27,330
 era começando a aprender como formalizar...
 
 52
-00:03:28,815 --> 00:03:32,026
-formalizaçar intuições sobre... processos...
+00:03:28,810 --> 00:03:32,020
+formalizar intuições sobre... processos...
 
 53
-00:03:32,461 --> 00:03:34,069
+00:03:32,460 --> 00:03:34,060
 como fazer as coisas.
 
 54
-00:03:39,360 --> 00:03:48,073
+00:03:39,360 --> 00:03:48,070
 Começando a desenvolver uma maneira...
 para falar precisamente
 
 55
-00:03:48,555 --> 00:03:51,305
+00:03:48,550 --> 00:03:51,300
 sobre o conhecimento do 'como fazer',
 
 56
-00:03:51,741 --> 00:03:56,100
+00:03:51,740 --> 00:03:56,100
 ao contrário da geometria
 que fala sobre o 'o que é verdade'.
 
 57
-00:03:56,569 --> 00:03:58,498
+00:03:56,560 --> 00:03:58,490
 Deixe-me dar um exemplo disso.
 
 58
-00:04:01,893 --> 00:04:06,554
+00:04:01,890 --> 00:04:06,550
 Vamos dar uma olhada... Aqui está
 um pouco de... um pouco de matemática.
 
 59
-00:04:06,972 --> 00:04:09,506
+00:04:06,970 --> 00:04:09,500
 Certo? Isso diz o que uma raiz quadrada é.
 
 60
-00:04:10,133 --> 00:04:14,359
+00:04:10,130 --> 00:04:14,350
 A raiz quadrada de X é o número Y
 
 61
-00:04:14,768 --> 00:04:17,972
+00:04:14,760 --> 00:04:17,970
 tal que o quadrado de Y é igual a X
 
 62
-00:04:18,373 --> 00:04:20,091
+00:04:18,370 --> 00:04:20,090
 e Y é maior que zero.
 
 63
-00:04:20,469 --> 00:04:22,040
+00:04:20,460 --> 00:04:22,040
 Isso é uma boa definição na matemática,
 
 64
-00:04:22,667 --> 00:04:27,369
+00:04:22,660 --> 00:04:27,360
 mas somente dizer o que é uma raiz quadrada
 não diz absolutamente nada sobre...
 
 65
-00:04:28,086 --> 00:04:30,508
+00:04:28,080 --> 00:04:30,500
 sobre
 como você pode sair por aí e encontrar uma raiz.
 
 66
-00:04:31,093 --> 00:04:35,758
+00:04:31,090 --> 00:04:35,750
 Vamos comparar isso
 com um pouco de conhecimento imperativo.
 
 67
-00:04:37,002 --> 00:04:39,559
+00:04:37,000 --> 00:04:39,550
 Certo? Como você pode
 sair por aí e achar uma raiz quadrada.
 
 68
-00:04:39,901 --> 00:04:45,300
+00:04:39,900 --> 00:04:45,300
 Esse fato também veio do Egito.
 Não de um Egito muito antigo.
 
 69
-00:04:45,701 --> 00:04:48,563
+00:04:45,700 --> 00:04:48,560
 Este é um algoritmo
 de Heron de Alexandria
 
 70
-00:04:50,067 --> 00:04:52,526
+00:04:50,060 --> 00:04:52,520
 que encontra a raiz quadrada
 através de médias sucessivas.
 
 71
-00:04:52,927 --> 00:04:54,248
+00:04:52,920 --> 00:04:54,240
 E o que isso diz é...
 
 72
-00:04:54,661 --> 00:04:57,669
+00:04:54,660 --> 00:04:57,660
 Para se encontrar uma raiz quadrada...
 
 73
@@ -336,490 +336,490 @@ Para se encontrar uma raiz quadrada...
 você faz um palpite,
 
 74
-00:05:05,983 --> 00:05:08,112
+00:05:05,980 --> 00:05:08,110
 você melhora este palpite,
 
 75
-00:05:09,495 --> 00:05:13,563
+00:05:09,490 --> 00:05:13,560
 e o jeito que você melhora o palpite é
 calculando a média do palpite e X sobre o palpite
 
 76
-00:05:14,056 --> 00:05:16,864
+00:05:14,050 --> 00:05:16,860
 (nós falaremos um pouco mais tarde
 sobre o porquê disso ser possível)
 
 77
-00:05:17,196 --> 00:05:19,210
+00:05:17,190 --> 00:05:19,210
 e você continua a melhorar
 o palpite enquanto ele for bom o suficiente.
 
 78
-00:05:19,767 --> 00:05:23,168
+00:05:19,760 --> 00:05:23,160
 Esse é um método.
 É como fazer alguma coisa.
 
 79
-00:05:23,694 --> 00:05:27,485
+00:05:23,690 --> 00:05:27,480
 Ao contrário do conhecimento declarativo
 que fala sobre o quê você está procurando.
 
 80
-00:05:28,080 --> 00:05:30,942
+00:05:28,080 --> 00:05:30,940
 E isso é um processo.
 
 81
-00:05:34,275 --> 00:05:38,350
+00:05:34,270 --> 00:05:38,350
 Bem, que processo na realidade?
 
 82
-00:05:38,784 --> 00:05:43,844
+00:05:38,780 --> 00:05:43,840
 Isso é algo difícil de dizer. Você pode
 pensar nisso como sendo um espírito mágico
 
 83
-00:05:44,625 --> 00:05:47,432
+00:05:44,620 --> 00:05:47,430
 das coisas que vivem e fazem algo
 em um computador.
 
 84
-00:05:47,849 --> 00:05:49,381
+00:05:47,840 --> 00:05:49,380
 E...
 
 85
-00:05:52,169 --> 00:05:58,065
+00:05:52,160 --> 00:05:58,060
 A coisa que direciona o processo é um
 padrão de regras chamada procedimento.
 
 86
-00:06:01,715 --> 00:06:04,544
+00:06:01,710 --> 00:06:04,540
 Então, procedimentos são os feitiços que você usa
 
 87
-00:06:04,940 --> 00:06:09,349
+00:06:04,940 --> 00:06:09,340
 para controlar estes espíritos mágicos
 que são os processos.
 
 88
-00:06:09,749 --> 00:06:12,331
+00:06:09,740 --> 00:06:12,330
 E... bem, eu imagino que vocês saibam que
 qualquer um precisa de uma linguagem mágica
 
 89
-00:06:12,732 --> 00:06:15,712
+00:06:12,730 --> 00:06:15,710
 e de feiticeiros, veja,
 feiticeiros verdadeiros usavam o Arcádio antigo,
 
 90
-00:06:16,311 --> 00:06:17,513
+00:06:16,310 --> 00:06:17,510
 ou Sumério, ou Babilônico ou outra coisa.
 
 91
-00:06:18,844 --> 00:06:23,275
+00:06:18,840 --> 00:06:23,270
 Nós vamos controlar nossos espíritos
 com uma linguagem mágica chamada LISP,
 
 92
-00:06:24,394 --> 00:06:28,043
+00:06:24,390 --> 00:06:28,040
 que é uma linguagem
 projetada para falar com...
 
 93
-00:06:28,508 --> 00:06:31,703
+00:06:28,500 --> 00:06:31,700
 para lançar feitiços que
 são procedimentos que guiam os processos.
 
 94
-00:06:32,232 --> 00:06:33,440
+00:06:32,230 --> 00:06:33,440
 Agora, é muito fácil de aprender LISP.
 
 95
-00:06:33,775 --> 00:06:36,837
+00:06:33,770 --> 00:06:36,830
 De fato, em alguns minutos eu irei
 ensinar para vocês praticamente tudo sobre LISP.
 
 96
-00:06:37,196 --> 00:06:39,491
+00:06:37,190 --> 00:06:39,490
 Eu irei ensinar para vocês
 praticamente todas as regras...
 
 97
-00:06:40,425 --> 00:06:43,016
+00:06:40,420 --> 00:06:43,010
 E vocês não devem achar
 isso surpreendente.
 
 98
-00:06:43,451 --> 00:06:46,522
+00:06:43,450 --> 00:06:46,520
 Isso é como dizer que é muito fácil
 aprender as regras do xadrez
 
 99
-00:06:46,923 --> 00:06:49,721
+00:06:46,920 --> 00:06:49,720
 e realmente em alguns minutos
 você poderá falar para qualquer um as regras do xadrez
 
 100
-00:06:50,558 --> 00:06:52,736
+00:06:50,550 --> 00:06:52,730
 mas claro que
 isso é muito diferente de dizer
 
 101
-00:06:53,283 --> 00:06:55,146
+00:06:53,280 --> 00:06:55,140
 que você entendeu
 as implicações dessas regras
 
 102
-00:06:55,381 --> 00:06:58,038
+00:06:55,380 --> 00:06:58,030
 e como usar essas regras
 para se tornar um mestre no jogo.
 
 103
-00:06:58,452 --> 00:06:59,880
+00:06:58,450 --> 00:06:59,880
 Bem, com LISP é a mesma coisa.
 
 104
-00:07:00,236 --> 00:07:03,118
+00:07:00,230 --> 00:07:03,110
 Nós iremos definir as regras em alguns
 minutos e isso será muito fácil de ver,
 
 105
-00:07:03,519 --> 00:07:06,899
+00:07:03,510 --> 00:07:06,890
 mas o que é realmente difícil
 é a implicação dessas regras.
 
 106
-00:07:07,402 --> 00:07:10,699
+00:07:07,400 --> 00:07:10,690
 Como vocês poderão explorar essas regras
 para se tornarem um grande programador.
 
 107
-00:07:12,032 --> 00:07:15,452
+00:07:12,030 --> 00:07:15,450
 E as implicações dessas regras
 irão nos tomar...
 
 108
-00:07:16,053 --> 00:07:19,137
+00:07:16,050 --> 00:07:19,130
 bem, todo o resto do assunto
 e muito mais.
 
 109
-00:07:21,457 --> 00:07:23,553
+00:07:21,450 --> 00:07:23,550
 OK. Então, em ciência da computação
 
 110
-00:07:24,462 --> 00:07:30,347
+00:07:24,460 --> 00:07:30,340
 nós estamos querendo formalizar
 o conhecimento imperativo do 'como fazer'.
 
 111
-00:07:30,768 --> 00:07:32,430
+00:07:30,760 --> 00:07:32,430
 Certo? Como fazer as coisas.
 
 112
-00:07:33,155 --> 00:07:35,653
+00:07:33,150 --> 00:07:35,650
 E as reais questões
 da ciência da computação não são obviamente,
 
 113
-00:07:35,987 --> 00:07:38,092
+00:07:35,980 --> 00:07:38,090
 vocês sabem,
 dizer para as pessoas como encontrar raízes quadradas.
 
 114
-00:07:38,734 --> 00:07:41,242
+00:07:38,730 --> 00:07:41,240
 Porquê se fosse essa a questão
 não seria grande coisa.
 
 115
-00:07:41,609 --> 00:07:46,100
+00:07:41,600 --> 00:07:46,100
 Os problemas reais aparecem quando
 nós tentamos construir sistemas muito, muito grandes.
 
 116
-00:07:46,572 --> 00:07:49,279
+00:07:46,570 --> 00:07:49,270
 Certo? Programas de computador
 que têm milhares de páginas.
 
 117
-00:07:49,610 --> 00:07:53,302
+00:07:49,610 --> 00:07:53,300
 Tão grandes que ninguém consegue realmente
 guardá-los na cabeça de uma vez só.
 
 118
-00:07:53,719 --> 00:08:00,191
+00:07:53,710 --> 00:08:00,190
 E a única razão disso ser possível
 é porque existem técnicas...
 
 119
-00:08:01,388 --> 00:08:04,219
+00:08:01,380 --> 00:08:04,210
 Existem técnicas...
 
 120
-00:08:06,113 --> 00:08:14,423
+00:08:06,110 --> 00:08:14,420
 para controlar a complexidade...
 
 121
-00:08:17,565 --> 00:08:19,613
+00:08:17,560 --> 00:08:19,610
 desses sistemas gigantescos.
 
 122
-00:08:20,148 --> 00:08:21,353
+00:08:20,140 --> 00:08:21,350
 E essas técnicas de
 
 123
-00:08:21,697 --> 00:08:24,261
+00:08:21,690 --> 00:08:24,260
 controle de complexidade
 são o real objetivo desse curso.
 
 124
-00:08:24,656 --> 00:08:28,062
+00:08:24,650 --> 00:08:28,060
 E em certo sentido isso é realmente
 sobre o quê a ciência da computação é.
 
 125
-00:08:29,540 --> 00:08:31,459
+00:08:29,540 --> 00:08:31,450
 Agora pode parecer
 algo muito estranho de dizer,
 
 126
-00:08:31,794 --> 00:08:33,628
+00:08:31,790 --> 00:08:33,620
 porque existem várias pessoas
 
 127
-00:08:34,132 --> 00:08:37,643
+00:08:34,130 --> 00:08:37,640
 ao lado dos cientistas da computação
 que lidam com o controle da complexidade.
 
 128
-00:08:38,033 --> 00:08:41,010
+00:08:38,030 --> 00:08:41,010
 Um controladador de vôo
 é um sistema extremamente complexo.
 
 129
-00:08:41,694 --> 00:08:43,714
+00:08:41,690 --> 00:08:43,710
 E os engenheiros aeronáuticos
 que projetam este sistemas,
 
 130
-00:08:44,131 --> 00:08:46,005
+00:08:44,130 --> 00:08:46,000
 vocês sabem,
 eles estão lidando com a complexidade do homem.
 
 131
-00:08:46,937 --> 00:08:48,134
+00:08:46,930 --> 00:08:48,130
 Mas existe uma diferença
 
 132
-00:08:48,564 --> 00:08:52,986
+00:08:48,560 --> 00:08:52,980
 entre esse tipo de complexidade e
 e aquela que lidamos na ciência da computação.
 
 133
-00:08:54,900 --> 00:09:00,112
+00:08:54,900 --> 00:09:00,110
 E isso significa que a ciência da computação
 de algumas formas não é real.
 
 134
-00:09:02,550 --> 00:09:06,548
+00:09:02,550 --> 00:09:06,540
 Veja, quando um engenheiro
 está projetando um sistema físico
 
 135
-00:09:06,969 --> 00:09:10,980
+00:09:06,960 --> 00:09:10,980
 ele é feito de partes reais, certo?
 Os engenheiros que se preocupam com isso
 
 136
-00:09:11,663 --> 00:09:16,223
+00:09:11,660 --> 00:09:16,220
 devem tratar problemas de tolerância,
 aproximações e ruídos no sistema.
 
 137
-00:09:16,624 --> 00:09:19,913
+00:09:16,620 --> 00:09:19,910
 Então, por exemplo, sendo um engenheiro
 eletricista eu posso sair e facilmente construir
 
 138
-00:09:20,239 --> 00:09:22,849
+00:09:20,230 --> 00:09:22,840
 um amplificar de um estágio
 ou de dois estágios.
 
 139
-00:09:23,283 --> 00:09:26,552
+00:09:23,280 --> 00:09:26,550
 E eu posso imaginar como arranjar um monte
 deles para construir um amplificador de milhões de estágios.
 
 140
-00:09:26,974 --> 00:09:29,412
+00:09:26,970 --> 00:09:29,410
 Mas é ridículo construir
 uma coisa dessas, porque
 
 141
-00:09:29,747 --> 00:09:33,212
+00:09:29,740 --> 00:09:33,210
 depois de milhões de estágios
 o ruído térmico nestes componentes
 
 142
-00:09:33,613 --> 00:09:35,152
+00:09:33,610 --> 00:09:35,150
 será cada vez mais amplificado,
 
 143
-00:09:35,459 --> 00:09:37,375
+00:09:35,450 --> 00:09:37,370
 levando a uma solução sem sentido algum.
 
 144
-00:09:38,827 --> 00:09:42,950
+00:09:38,820 --> 00:09:42,950
 A ciência da computação
 lida com componentes idealizados.
 
 145
-00:09:43,867 --> 00:09:45,808
+00:09:43,860 --> 00:09:45,800
 Nós sabemos o que queremos saber
 
 146
-00:09:46,204 --> 00:09:49,369
+00:09:46,200 --> 00:09:49,360
 sobre estes pequenos dados de programação
 que estamos juntando.
 
 147
-00:09:50,356 --> 00:09:54,099
+00:09:50,350 --> 00:09:54,090
 Sendo assim... Nós não precisamos nos preocupar
 com tolerância e isso significa
 
 148
-00:09:55,255 --> 00:09:59,845
+00:09:55,250 --> 00:09:59,840
 que ao contruir um programa grande
 não existe tanta diferença assim
 
 149
-00:10:00,343 --> 00:10:04,586
+00:10:00,340 --> 00:10:04,580
 entre o que eu consigo construir
 e o que eu consigo imaginar.
 
 150
-00:10:05,367 --> 00:10:09,741
+00:10:05,360 --> 00:10:09,740
 Porque as partes disso abstraem
 entidades que eu conheço o quanto eu quero.
 
 151
-00:10:10,142 --> 00:10:12,553
+00:10:10,140 --> 00:10:12,550
 Eu sei sobre elas
 somente o que eu gostaria de saber.
 
 152
-00:10:13,227 --> 00:10:15,269
+00:10:13,220 --> 00:10:15,260
 Então, ao contrário
 de outros tipos de engenharia
 
 153
-00:10:15,667 --> 00:10:17,453
+00:10:15,660 --> 00:10:17,450
 onde as restrições sobre o quê
 você pode construir são as restrições
 
 154
-00:10:17,839 --> 00:10:20,882
+00:10:17,830 --> 00:10:20,880
 dos sistemas físicos, as restrições
 da física, ruído e aproximação.
 
 155
-00:10:21,277 --> 00:10:23,324
+00:10:21,270 --> 00:10:23,320
 As restrições impostas...
 
 156
-00:10:24,012 --> 00:10:28,107
+00:10:24,010 --> 00:10:28,100
 para se construir grandes sistemas de software
 são as limitações da nossa própria mente.
 
 157
-00:10:28,834 --> 00:10:33,462
+00:10:28,830 --> 00:10:33,460
 Então, neste sentido a ciência da computação
 é como uma forma abstrata da engenharia.
 
 158
-00:10:33,796 --> 00:10:36,146
+00:10:33,790 --> 00:10:36,140
 É um tipo de engenharia
 onde você pode ignorar as limitações
 
 159
-00:10:36,642 --> 00:10:38,594
+00:10:36,640 --> 00:10:38,590
 que são impostas pela realidade.
 
 160
-00:10:41,593 --> 00:10:45,766
+00:10:41,590 --> 00:10:45,760
 OK. Bem, quais são...
 algumas destas técnicas?
 
 161
-00:10:46,343 --> 00:10:49,097
+00:10:46,340 --> 00:10:49,090
 Elas não são específicas para a ciência da computação.
 
 162
-00:10:50,216 --> 00:10:55,508
+00:10:50,210 --> 00:10:55,500
 A primeira técnica que é usado em todo tipo de
 engenharia é um tipo de abstração
 
 163
-00:10:56,474 --> 00:11:00,779
+00:10:56,470 --> 00:11:00,770
 chamada de abstração de caixa-preta.
 
 164
-00:11:06,863 --> 00:11:12,934
+00:11:06,860 --> 00:11:12,930
 Pegue alguma coisa e construa uma caixa para ela.
 
 165
-00:11:14,087 --> 00:11:20,634
+00:11:14,080 --> 00:11:20,630
 Vejamos por exemplo
 se analisarmos o método de raiz quadrada
 
 166
-00:11:22,503 --> 00:11:26,091
+00:11:22,500 --> 00:11:26,090
 Eu poderia querer assumir isso e...
 
 167
-00:11:27,136 --> 00:11:30,256
+00:11:27,130 --> 00:11:30,250
 construir uma caixa que signifique
 
 168
-00:11:30,656 --> 00:11:37,771
+00:11:30,650 --> 00:11:37,770
 'encontrar a raiz quadrada de X'
 
 169
-00:11:38,506 --> 00:11:41,651
+00:11:38,500 --> 00:11:41,650
 Agora isso poderia ser
 todo um conjunto complicado de regras
 
 170
-00:11:42,353 --> 00:11:48,017
+00:11:42,350 --> 00:11:48,010
 e poderia acabar sendo um tipo de
 coisa onde eu poderia colocar, digamos, 36 e perguntar
 
 171
-00:11:48,518 --> 00:11:52,332
+00:11:48,510 --> 00:11:52,330
 qual a raiz quadrada de 36
 e a saída seria 6.
 
 172
-00:11:53,877 --> 00:11:57,577
+00:11:53,870 --> 00:11:57,570
 E o importante nisso é que eu poderia
 projetá-lo de forma que
 
 173
-00:11:58,309 --> 00:12:05,829
-quando George viesse e quizesse
+00:11:58,300 --> 00:12:05,820
+quando George viesse e quisesse
 calcular, digamos, a raiz quadrada
 
 174
-00:12:06,348 --> 00:12:13,992
+00:12:06,340 --> 00:12:13,990
 de A mais a raiz quadrada de B ele poderia
 pegar isso e usá-lo como um módulo
 
 175
-00:12:14,355 --> 00:12:17,259
+00:12:14,350 --> 00:12:17,250
 sem ter que olhar para dentro e construir
 algo que se pareça com isso
 
 176
-00:12:18,252 --> 00:12:26,350
+00:12:18,250 --> 00:12:26,350
 como um A e um B, e uma caixa para a raiz quadrada,
 e outra caixa de raiz quadrada
 
@@ -828,41 +828,41 @@ e outra caixa de raiz quadrada
 e então algo que some-as.
 
 178
-00:12:32,293 --> 00:12:36,190
+00:12:32,290 --> 00:12:36,190
 Agora ele iria dar a resposta.
 E vocês podem ver, que eu quero fazer isso
 
 179
-00:12:36,591 --> 00:12:41,499
+00:12:36,590 --> 00:12:41,490
 a partir do ponto de vista
-de Geroge, onde os detalhes internas do que está aqui
+de Geroge, onde os detalhes internos do que está aqui
 
 180
-00:12:41,900 --> 00:12:45,508
+00:12:41,900 --> 00:12:45,500
 não devem ser importantes.
 Então, por exemplo, não importa se
 
 181
-00:12:45,841 --> 00:12:50,175
+00:12:45,840 --> 00:12:50,170
 quando eu escrevo isso eu diga
 eu quero encontrar a raiz de X.
 
 182
-00:12:50,523 --> 00:12:53,835
+00:12:50,520 --> 00:12:53,830
 Eu poderia ter pedido a raiz quadrada de Y.
 Ou a raiz quadrada de A.
 
 183
-00:12:54,190 --> 00:12:58,068
+00:12:54,190 --> 00:12:58,060
 Ou simplesmente a raiz quadrada de nada.
 E essa é a noção fundamental
 
 184
-00:12:58,566 --> 00:13:02,085
+00:12:58,560 --> 00:13:02,080
 para se colocar algo na caixa...
 
 185
-00:13:03,435 --> 00:13:06,751
+00:13:03,430 --> 00:13:06,750
 usando a abstração de caixa-preta
 para esconder detalhes.
 
@@ -872,915 +872,914 @@ E a razão para isso é que vocês
 irão querer sair e construir caixas maiores.
 
 187
-00:13:11,960 --> 00:13:14,215
+00:13:11,960 --> 00:13:14,210
 Agora, existe uma outra razão para fazermos
 abstrações de caixa-preta.
 
 188
-00:13:14,529 --> 00:13:18,047
+00:13:14,520 --> 00:13:18,040
 Além disso vocês irão querer suprimir detalhes
 para construir caixas ainda maiores.
 
 189
-00:13:18,448 --> 00:13:26,131
+00:13:18,440 --> 00:13:26,130
 Algumas vezes você diz que o seu jeito de
 fazer as coisas, o seu método de 'como fazer'
 
 190
-00:13:27,907 --> 00:13:30,513
+00:13:27,900 --> 00:13:30,510
 é uma instância de algo mais geral.
 
 191
-00:13:30,946 --> 00:13:34,732
+00:13:30,940 --> 00:13:34,730
 E você gostaria que sua linguagem fosse capaz
 de expressar essa generalidade.
 
 192
-00:13:35,248 --> 00:13:39,462
+00:13:35,240 --> 00:13:39,460
 Deixem-me mostrar um outro exemplo
 com raiz quadrada. Vamos voltar atrás
 
 193
-00:13:39,863 --> 00:13:43,978
+00:13:39,860 --> 00:13:43,970
 e dar uma olhada no slide
 com o algoritmo da raiz quadrada.
 
 194
-00:13:44,436 --> 00:13:50,042
+00:13:44,430 --> 00:13:50,040
 Lembram o que ele dizia? Ele dizia que
 para fazer algo eu precisaria fazer um palpite,
 
 195
-00:13:50,590 --> 00:13:54,989
+00:13:50,590 --> 00:13:54,980
 e eu iria melhorar esse palpite, e
 de alguma forma continuaria a melhorá-lo.
 
 196
-00:13:55,788 --> 00:14:00,416
+00:13:55,780 --> 00:14:00,410
 Então, existe uma estratégia geral
 quando procuramos por algo.
 
 197
-00:14:01,189 --> 00:14:03,770
+00:14:01,180 --> 00:14:03,770
 E o jeito para eu encontrar algo
 é continuar melhorando-o.
 
 198
-00:14:04,171 --> 00:14:10,379
+00:14:04,170 --> 00:14:10,370
 Agora, esse é uma caso particular de um outro
 tipo de estratégia
 
 199
-00:14:10,984 --> 00:14:12,896
+00:14:10,980 --> 00:14:12,890
 para encontrar um ponto fixo de algo.
 
 200
-00:14:14,466 --> 00:14:22,192
+00:14:14,460 --> 00:14:22,190
 Para termos o ponto fixo de uma função...
 Um ponto fixo... de uma função...
 
 201
-00:14:23,417 --> 00:14:28,138
+00:14:23,410 --> 00:14:28,130
 é algo... é um valor...
 Ponto fixo de uma função F é um valor Y
 
 202
-00:14:28,539 --> 00:14:32,030
+00:14:28,530 --> 00:14:32,030
 tal que F de Y é igual a Y.
 
 203
-00:14:32,986 --> 00:14:35,680
+00:14:32,980 --> 00:14:35,680
 E a maneira que eu poderia fazer isso...
 
 204
-00:14:38,690 --> 00:14:44,076
+00:14:38,690 --> 00:14:44,070
 é começar com um palpite, e se eu quero
 algo que não se altera
 
 205
-00:14:44,477 --> 00:14:47,103
+00:14:44,470 --> 00:14:47,100
 quando eu continuo aplicando F
 é continuar aplicando F denovo, e denovo
 
 206
-00:14:47,603 --> 00:14:51,730
+00:14:47,600 --> 00:14:51,730
 enquanto o resultando não se alterar
 muito. Então existe uma estratégia geral
 
 207
-00:14:52,238 --> 00:14:55,858
+00:14:52,230 --> 00:14:55,850
 e então, por exemplo,
 para calcular a raiz quadrada de X
 
 208
-00:14:56,263 --> 00:14:57,822
+00:14:56,260 --> 00:14:57,820
 eu posso tentar achar um ponto fixo
 
 209
-00:14:58,765 --> 00:15:03,041
+00:14:58,760 --> 00:15:03,040
 de uma função que toma
 Y sendo a média de X sobre Y.
 
 210
-00:15:03,388 --> 00:15:07,568
+00:15:03,380 --> 00:15:07,560
 E a idéia disso é que se eu realmente
 tenho Y sendo a raiz quadrada de X
 
 211
-00:15:08,116 --> 00:15:11,619
+00:15:08,110 --> 00:15:11,610
 então Y e X sobre Y
 teriam o mesmo valor.
 
 212
-00:15:12,077 --> 00:15:13,532
+00:15:12,070 --> 00:15:13,530
 Ambos seriam raízes quadradas de X.
 
 213
-00:15:13,997 --> 00:15:18,732
+00:15:13,990 --> 00:15:18,730
 Certo? Porque X sobre a raiz quadrada de X
 é a raiz quadrada de X.
 
 214
-00:15:19,106 --> 00:15:21,805
+00:15:19,100 --> 00:15:21,800
 E então a média, se Y for igual à
 raiz quadrada de X
 
 215
-00:15:22,283 --> 00:15:25,612
+00:15:22,280 --> 00:15:25,610
 então a média não mudaria.
 
 216
-00:15:26,019 --> 00:15:29,001
+00:15:26,010 --> 00:15:29,000
 Então a raiz quadrada de X é um ponto fixo
 de uma função em particular.
 
 217
-00:15:30,079 --> 00:15:34,778
+00:15:30,070 --> 00:15:34,770
 Agora, o que eu gostaria de ter...
 Eu gostaria expressar uma estratégia geral
 
 218
-00:15:35,179 --> 00:15:40,497
+00:15:35,170 --> 00:15:40,490
 para encontrar pontos fixos. Então o que
 eu poderia imaginar fazendo isso é encontrar...
 
 219
-00:15:40,970 --> 00:15:47,816
+00:15:40,970 --> 00:15:47,810
 é ser capaz de usar a minha linguagem
 para definir uma caixa que signifique 'ponto fixo'.
 
 220
-00:15:49,468 --> 00:15:52,612
+00:15:49,460 --> 00:15:52,610
 Da mesma forma que eu poderia criar uma caixa que diga
 'raiz quadrada' e eu gostaria de ser capaz
 
 221
-00:15:53,012 --> 00:15:55,617
+00:15:53,010 --> 00:15:55,610
 de expressá-la em minha linguagem.
 
 222
-00:15:56,142 --> 00:16:00,980
+00:15:56,140 --> 00:16:00,980
 Então eu gostaria de expressar não somente
 o conhecimento imperativo de 'como fazer'
 
 223
-00:16:01,381 --> 00:16:04,212
+00:16:01,380 --> 00:16:04,210
 sobre uma coisa particular como a raiz quadrada,
 mas eu gostaria de ser capaz de expressar
 
 224
-00:16:04,613 --> 00:16:08,704
+00:16:04,610 --> 00:16:08,700
 o conhecimento imperativo de 'como fazer' para fazer
-algo general como encontrar um ponto fixo.
+algo geral como encontrar um ponto fixo.
 
 225
-00:16:09,821 --> 00:16:13,493
+00:16:09,820 --> 00:16:13,490
 Então vamos voltar
 e olhar aquele slide novamente.
 
 226
-00:16:14,896 --> 00:16:17,095
+00:16:14,890 --> 00:16:17,090
 Vejam, isso não é somente...
 
 227
-00:16:21,467 --> 00:16:25,396
+00:16:21,460 --> 00:16:25,390
 não é somente um pedaço de conhecimento
 imperativo sobre como encontrar um ponto fixo.
 
 228
-00:16:26,070 --> 00:16:29,215
+00:16:26,070 --> 00:16:29,210
 Logo aqui no rodapé, há outro pedaço
 de conhecimento imperativo
 
 229
-00:16:29,706 --> 00:16:32,516
+00:16:29,700 --> 00:16:32,510
 que diz que uma forma de computar uma raiz quadrada
 
 230
-00:16:33,124 --> 00:16:35,833
+00:16:33,120 --> 00:16:35,830
 é aplicar
 o método geral de ponto fixo.
 
 231
-00:16:36,191 --> 00:16:39,283
+00:16:36,190 --> 00:16:39,280
 Então eu gostaria de também ser capaz de expressar
 esse conhecimento imperativo.
 
 232
-00:16:39,685 --> 00:16:45,157
+00:16:39,680 --> 00:16:45,150
 Com o que se pareceria isso? Digamos
 que uma caixa de 'ponto fixo' é algo que
 
 233
-00:16:45,650 --> 00:16:58,622
+00:16:45,650 --> 00:16:58,620
 quando dada como entrada a função que toma
 Y como a média de Y e X sobre Y
 
 234
-00:16:59,491 --> 00:17:03,367
-a saída de uma caixa de 
+00:16:59,490 --> 00:17:03,360
+a saída de uma caixa de
 'ponto fixo' é...
 
 235
-00:17:04,211 --> 00:17:07,420
+00:17:04,210 --> 00:17:07,420
 um método para encontrar raízes quadradas.
 
 236
-00:17:08,642 --> 00:17:11,835
+00:17:08,640 --> 00:17:11,830
 Portanto nessas caixas não estamos apenas
 construindo caixas onde
 
 237
-00:17:12,236 --> 00:17:15,405
+00:17:12,230 --> 00:17:15,400
 você insere números e obtém números como saída.
 
 238
-00:17:16,338 --> 00:17:19,568
-We're gonna be building in boxes
-that in effect compute methods
+00:17:16,330 --> 00:17:19,560
+Nós iremos construir caixas
+que por sua vez computam métodos
 
 239
-00:17:19,869 --> 00:17:21,266
-like finding square root.
+00:17:19,860 --> 00:17:21,260
+como encontrar a raiz quadrada
 
 240
-00:17:21,975 --> 00:17:25,943
-And might take as their inputs functions
+00:17:21,970 --> 00:17:25,940
+E que podem aceitar funções como entradas
 
 241
-00:17:26,415 --> 00:17:29,299
-like Y goes
-to the average of Y and X over Y.
+00:17:26,410 --> 00:17:29,290
+como fazer o Y ir
+para a média entre Y e X sobre Y.
 
 242
-00:17:29,782 --> 00:17:32,608
-Reason we wanna do that...
-see, the reason...
+00:17:29,780 --> 00:17:32,600
+A razão pela qual queremos fazer isso...
+Veja, a razão...
 
 243
-00:17:33,009 --> 00:17:35,951
-This is a procedure or end up being
-a procedure as we'll see,
+00:17:33,000 --> 00:17:35,950
+Isso é um procedimento ou acaba se tornando
+um procedimento como iremos ver
 
 244
-00:17:36,352 --> 00:17:41,006
-whose value is another procedure. The
-reason we wanna do that is because
+00:17:36,350 --> 00:17:41,000
+cujo valor é outro procedimento. A
+a razão pela qual queremos fazer isso é porque
 
 245
-00:17:41,307 --> 00:17:47,039
-procedures are gonna be our ways of
-talking about imperative knowledge.
+00:17:41,300 --> 00:17:47,030
+procedimentos serão a nossa maneira de
+falar sobre conhecimento imperativo.
 
 246
-00:17:47,952 --> 00:17:49,192
-And the way to make that very powerful
+00:17:47,950 --> 00:17:49,190
+E a maneira de tornar isso algo poderoso
 
 247
-00:17:49,577 --> 00:17:52,348
-is to be able to talk
-about other kinds of knowledge.
+00:17:49,570 --> 00:17:52,340
+é poder falar 
+asobre outros tipos de conhecimento.
 
 248
-00:17:53,249 --> 00:17:56,545
-So, here is a procedure that in fact
-talks about another procedure.
+00:17:53,240 --> 00:17:56,540
+Então, aqui está um procedimento que na verdade
+fala sobre outro procedimento.
 
 249
-00:17:56,946 --> 00:18:00,888
+00:17:56,940 --> 00:18:00,880
 And the general strategy that itself
 talks about general strategies.
 
 250
-00:18:03,504 --> 00:18:09,196
-OK. Well, our first topic in this course
-(there will be three major topics)
+00:18:03,500 --> 00:18:09,190
+OK. Bom, nosso primeiro tópico neste curso
+(haverá três grandes tópicos)
 
 251
-00:18:09,597 --> 00:18:13,749
-will be black-box abstraction. Let's look
-at that in a little bit more detail.
+00:18:09,590 --> 00:18:13,740
+será a abstração da caixa-preta. Vamos olhar
+para isso com um pouco mais de detalhes.
 
 252
-00:18:14,962 --> 00:18:20,629
-Well, what we're gonna do is we will...
+00:18:14,960 --> 00:18:20,620
+Bom, o que nós iremos fazer é que nós iremos...
 
 253
-00:18:21,744 --> 00:18:26,857
-We'll start out talking about how LISP
-is built up out of primitive objects,
+00:18:21,740 --> 00:18:26,850
+Nós vamos começar falando sobre como LISP
+é construído sobre objetos primitivos,
 
 254
-00:18:27,200 --> 00:18:29,227
-what is the language supply with us.
+00:18:27,200 --> 00:18:29,220
+o que é que a linguagem nos fornece.
 
 255
-00:18:29,647 --> 00:18:34,152
-And we'll see that they are
-primitive procedures and primitive data.
+00:18:29,640 --> 00:18:34,150
+E nós veremos que eles são
+Procedimentos primitivos e dados primitivos.
 
 256
-00:18:35,310 --> 00:18:38,214
-Then we're gonna see
-how do you take those primitives
+00:18:35,310 --> 00:18:38,210
+Então nós iremos ver
+Como você pega esses primitivos
 
 257
-00:18:38,515 --> 00:18:40,905
-and combine them
-to make more complicated things.
+00:18:38,510 --> 00:18:40,900
+e os combina
+para fazer coisas mais complicadas.
 
 258
-00:18:41,406 --> 00:18:42,886
-Means of combination.
+00:18:41,400 --> 00:18:42,880
+Maneiras de combinar.
 
 259
-00:18:43,215 --> 00:18:46,169
-And what we'll see is that they're
-ways of putting things together,
+00:18:43,210 --> 00:18:46,160
+E o que nós iremos ver é que eles são
+Maneiras de combinar as coisas,
 
 260
-00:18:46,470 --> 00:18:50,672
-putting primitive procedures together
-to make more complicated procedures.
+00:18:46,470 --> 00:18:50,670
+juntando procedimentos primitivos
+para fazer procedimentos mais complicados.
 
 261
-00:18:50,867 --> 00:18:55,349
-And we'll see how to put primitive data
-together to make compound data.
+00:18:50,860 --> 00:18:55,340
+E nós iremos como colocar dados primitivos
+juntos para fazer dados compostos.
 
 262
-00:18:55,758 --> 00:18:59,407
-Then we'll say:
-well, having made those compound things,
+00:18:55,750 --> 00:18:59,400
+Então nós iremos dizer:
+bom, tendo feito essas coisas compostas,
 
 263
-00:18:59,708 --> 00:19:02,189
-how do you abstract them?
+00:18:59,700 --> 00:19:02,180
+como você as abstrai?
 
 264
-00:19:02,795 --> 00:19:04,912
-How do you put
-those black boxes around them
+00:19:02,790 --> 00:19:04,910
+Como você coloca
+essas caixas pretas ao redor delas
 
 265
-00:19:05,213 --> 00:19:07,711
-so you can use them as
-components in more complex things?
+00:19:05,210 --> 00:19:07,710
+para que você as use como
+componentes em coisas mais complexas?
 
 266
-00:19:08,017 --> 00:19:11,225
-And we'll see
-that's done by defining procedures and
+00:19:08,010 --> 00:19:11,220
+E nós iremos ver
+que isso é feito definindo procedimentos e
 
 267
-00:19:11,649 --> 00:19:15,152
-a technique for dealing with
-compound data called data abstraction.
+00:19:11,640 --> 00:19:15,150
+uma técnica para lidar com
+dados compostos chamada abstração de dados.
 
 268
-00:19:15,522 --> 00:19:18,681
-And then
-what's maybe the most important thing is
+00:19:15,520 --> 00:19:18,680
+E então
+o que talvez seja a coisa mais importante é
 
 269
-00:19:19,016 --> 00:19:21,517
-going from just the rules
-to how does an expert work.
+00:19:19,010 --> 00:19:21,510
+ir de apenas essas regras
+para como fazer um trabalho especialista.
 
 270
-00:19:21,818 --> 00:19:26,298
-How do you express common
-patterns of doing things like saying
+00:19:21,810 --> 00:19:26,290
+Como você expressa padrões comuns
+de fazer as coisas como dizer
 
 271
-00:19:26,599 --> 00:19:28,463
-well, there's a
-general method of fixed point
+00:19:26,590 --> 00:19:28,460
+bem, existe um
+método geral do ponto fixo
 
 272
-00:19:28,764 --> 00:19:31,738
-and square root
-is a particular case of that.
+00:19:28,760 --> 00:19:31,730
+e a raiz quadrada
+é um caso particular disso.
 
 273
-00:19:32,023 --> 00:19:34,200
-And we're gonna use
+00:19:32,020 --> 00:19:34,200
+E nós iremos usar
 
 274
-00:19:34,501 --> 00:19:37,627
-I've already hinted that it's something
-called higher order procedures, namely
+00:19:34,500 --> 00:19:37,620
+Eu já mencionei que existe algo assim com
+procedimentos de alto nível, como
 
 275
-00:19:37,928 --> 00:19:42,765
-procedures, whose inputs
-and outputs are themselves procedures.
+00:19:37,920 --> 00:19:42,760
+procedimentos, cujas entradadas
+e saídas são elas próprias procedimentos.
 
 276
-00:19:43,200 --> 00:19:45,455
-And we will also see
-something very interesting we'll see
+00:19:43,200 --> 00:19:45,450
+E nós também iremos ver
+algo muito interessante, nós iremos ver
 
 277
-00:19:45,772 --> 00:19:48,272
-as we go further and further on
-and become more abstract
+00:19:45,770 --> 00:19:48,270
+conforme formos prosseguindo
+e nos tornamos mais abstratos
 
 278
-00:19:48,746 --> 00:19:49,763
-there'll be very...
+00:19:48,740 --> 00:19:49,760
+existirão muitas...
 
 279
-00:19:50,064 --> 00:19:53,096
-well... the line between
-what we consider to be data
+00:19:50,060 --> 00:19:53,090
+bem... a linha entre o que
+nós consideramos como sendo dados
 
 280
-00:19:53,447 --> 00:19:58,763
-and what we consider to be procedures
-is gonna blur at an incredible rate.
+00:19:53,440 --> 00:19:58,760
+e o que nós consideramos procedimentos
+vai borrar num ritmo incrível.
 
 281
-00:20:02,561 --> 00:20:05,843
-Right, well, that's our first subject,
+00:20:02,560 --> 00:20:05,840
+Bom, certo, esse é o nosso primeiro assunto
 
 282
-00:20:06,144 --> 00:20:08,675
-black-box abstraction.
-Let's look at the second topic.
+00:20:06,140 --> 00:20:08,670
+abstração da caixa preta.
+Vamos olhar para o segundo tópico.
 
 283
-00:20:10,840 --> 00:20:12,787
-I can introduce it...
+00:20:10,840 --> 00:20:12,780
+Eu posso introduzi-lo...
 
 284
-00:20:13,084 --> 00:20:18,731
-Let's see that like this.
-Suppose I want to express the idea.
+00:20:13,080 --> 00:20:18,730
+Vamos ver, assim
+Suponha que eu queira expressar a idéia
 
 285
-00:20:19,441 --> 00:20:22,564
-Remember, we're talking about ideas.
+00:20:19,440 --> 00:20:22,560
+Lembrem-se, nós estamos falando sobre idéias
 
 286
-00:20:22,826 --> 00:20:25,773
-Suppose, I wanna express the idea that
+00:20:22,820 --> 00:20:25,770
+Suponha, eu quero expressar a idéia de que
 
 287
-00:20:26,379 --> 00:20:28,981
-I can take something
+00:20:26,370 --> 00:20:28,980
+Eu posso pegar alguma coisa
 
 288
-00:20:30,390 --> 00:20:34,897
-and multiply it by
-the sum of two other things.
+00:20:30,390 --> 00:20:34,890
+e multiplicar isto pela
+pela soma de duas outras coisas.
 
 289
-00:20:35,830 --> 00:20:37,784
-So for example I might say
+00:20:35,830 --> 00:20:37,780
+Então por exemplo eu posso dizer
 
 290
-00:20:38,185 --> 00:20:41,579
-If I add 1 and 3
-and multiply that by 2 I get 8.
+00:20:38,180 --> 00:20:41,570
+Se eu adicionar 1 e 3
+e multiplicar isso por 2 eu obtenho 8.
 
 291
-00:20:41,880 --> 00:20:44,916
-But I'm talking about general idea
-of what's called linear combination.
+00:20:41,880 --> 00:20:44,910
+Mas eu estou falando sobre a idéia geral
+Do que é chamado combinação linear.
 
 292
-00:20:45,286 --> 00:20:48,801
-That you can add two things
-and multiply them by something else.
+00:20:45,280 --> 00:20:48,800
+Que você pode adicionar duas coisas
+e multiplicá-las por outra coisa.
 
 293
-00:20:49,149 --> 00:20:51,919
-It's very easy when I think
-about it for numbers but suppose I...
+00:20:49,140 --> 00:20:51,910
+É muito fácil quando eu penso
+quando eu penso sobre isso com números mas suponha que eu...
 
 294
-00:20:52,280 --> 00:20:55,661
-I also want to use
-that same idea to think about
+00:20:52,280 --> 00:20:55,660
+Eu também queira usar
+essa mesma idéia para pensar sobre
 
 295
-00:20:55,962 --> 00:20:58,712
-I could add two vectors a1 and a2
+00:20:55,960 --> 00:20:58,710
+Eu poderia adicionar dois vetores a1 e a2I could add two vectors a1 and a2
 
 296
-00:20:59,535 --> 00:21:02,758
-and then scale them
-by some factor x and get another vector.
+00:20:59,530 --> 00:21:02,750
+e então escalá-los
+por um fator X para obter outro vetor.
 
 297
-00:21:03,059 --> 00:21:09,736
-Or I might say I wanna think
-about a1 and a2 as being polynomials.
+00:21:03,050 --> 00:21:09,730
+Ou eu posso dizer que eu quero pensar
+sobre a1 e a2 como sendo polinômios.
 
 298
-00:21:10,525 --> 00:21:12,906
-And I might wanna
-add those two polynomials
+00:21:10,520 --> 00:21:12,900
+E eu posso querer
+adicionar esses dois polinômiosadd those two polynomials
 
 299
-00:21:13,207 --> 00:21:17,104
-and then multiply them by two
-to get a more complicated one.
+00:21:13,200 --> 00:21:17,100
+e então multiplicá-los por dois
+para obter um mais complicado.
 
 300
-00:21:20,116 --> 00:21:24,079
-Or a1 and a2 might be electrical signals
+00:21:20,110 --> 00:21:24,070
+Ou a1 e a2 podem ser sinais elétricos
 
 301
-00:21:24,455 --> 00:21:27,086
-and I might wanna think about
-summing those two electrical signals
+00:21:24,450 --> 00:21:27,080
+E eu posso querer pensar sobre
+somar esses dois sinais elétricos
 
 302
-00:21:27,428 --> 00:21:30,767
-and then putting the whole thing
-to an amplifier and multiplying it by
+00:21:27,420 --> 00:21:30,760
+e entãso colocar a coisa toda
+em um amplificador e multiplicá-lo por
 
 303
-00:21:31,168 --> 00:21:33,252
-some factor of two or something.
+00:21:31,160 --> 00:21:33,250
+algum fator de dois ou alguma coisa.
 
 304
-00:21:33,693 --> 00:21:37,463
-The idea is I wanna think
-about the general notion of that.
+00:21:33,690 --> 00:21:37,460
+A idéia é que eu quero pensar
+sobre a noção geral disso.
 
 305
-00:21:38,358 --> 00:21:40,104
-Now, if our language
+00:21:38,350 --> 00:21:40,100
+Agora, se a nossa linguagem
 
 306
-00:21:40,505 --> 00:21:45,916
-is gonna be a good language for
-expressing those kinds of general ideas.
+00:21:40,500 --> 00:21:45,910
+será uma boa linguagem para
+expressar esse tipo de idéia geral.
 
 307
-00:21:46,902 --> 00:21:50,061
-It's if I really can do that.
+00:21:46,900 --> 00:21:50,060
+Se eu realmente poderei fazer isso.
 
 308
-00:21:50,521 --> 00:21:52,659
-So I'd like to be able to say
+00:21:50,520 --> 00:21:52,650
+Então eu gostaria de ser capaz de poder dizer
 
 309
-00:21:54,599 --> 00:22:01,893
-I gonna multiply by x the sum of a1 and a2
+00:21:54,590 --> 00:22:01,890
+Eu vou multiplicar por X a soma de a1 e a2
 
 310
-00:22:02,391 --> 00:22:05,647
-and I'd like that
-to express the general idea
+00:22:02,390 --> 00:22:05,640
+e eu gostaria de
+expressar a idéia geral
 
 311
-00:22:06,032 --> 00:22:08,972
-of all different kinds of things
-that a1 and a2 could be.
+00:22:06,030 --> 00:22:08,970
+de todas as diferentes coisas
+que a1 e a2 podem ser.
 
 312
-00:22:09,916 --> 00:22:13,949
-Now, if you think about that, there's
-a problem because after all the actual
+00:22:09,910 --> 00:22:13,940
+Agora, se você pensar sobre isso,existe
+um problema porque todas as
 
 313
-00:22:14,919 --> 00:22:18,120
-primitive operations that go on in the
-machine are obviously gonna be different
+00:22:14,910 --> 00:22:18,120
+operações primitivas que vão para a 
+máquina serão obviamente diferentes
 
 314
-00:22:18,521 --> 00:22:22,599
-if I'm adding two numbers
-then if I'm adding two polynomials.
+00:22:18,520 --> 00:22:22,590
+se eu estiver adicionando dois números
+do que se eu estiver adicionando dois polinômios
 
 315
-00:22:22,900 --> 00:22:27,434
-Or if I'm adding the representation
-of two electrical signals or waveforms.
+00:22:22,900 --> 00:22:27,430
+Ou se estou adicionando a representação
+de dois sinais elétricos ou ondas.
 
 316
-00:22:27,842 --> 00:22:30,077
-Somewhere there has to be the knowledge
+00:22:27,840 --> 00:22:30,070
+Em algum lugar deve existir o conhecimento
 
 317
-00:22:30,434 --> 00:22:35,757
-of the kinds of various things that
-you can add and the ways of adding them.
+00:22:30,430 --> 00:22:35,750
+dos tipos de coisas que
+você pode adicionar e as maneiras de adicioná-las
 
 318
-00:22:37,045 --> 00:22:38,544
-Now, to construct such a system,
+00:22:37,040 --> 00:22:38,540
+Agora, para construir um sistema assim
 
 319
-00:22:38,845 --> 00:22:40,653
-the question is
-where do I put that knowledge?
+00:22:38,840 --> 00:22:40,650
+a questão é
+onde eu coloco esse conhecimento?
 
 320
-00:22:41,054 --> 00:22:45,833
-How do I think about the different
-kinds of choices I have? And if tomorrow
+00:22:41,050 --> 00:22:45,830
+Como eu penso sobre os diferentes
+tipos de escolhas que eu tenho? E se amanhã
 
 321
-00:22:46,252 --> 00:22:50,263
-George comes up with a new kind of object
-that might be added and multiplied,
+00:22:46,250 --> 00:22:50,260
+George aparecer com um novo tipo de objeto
+que pode ser adicionado e multiplicado,
 
 322
-00:22:50,817 --> 00:22:54,483
-how do I add George's new object to this
-system without screwing up everything
+00:22:50,810 --> 00:22:54,480
+como eu adiciono o novo objeto de George a esse
+sistema sem bagunçar tudo
 
 323
-00:22:54,783 --> 00:22:56,596
-that was already there?
+00:22:54,780 --> 00:22:56,590
+que já estava lá?
 
 324
-00:22:57,635 --> 00:23:00,245
-That's gonna be the second big topic,
+00:22:57,630 --> 00:23:00,240
+Este será o segundo grande tópico
 
 325
-00:23:00,573 --> 00:23:04,687
-the way of controlling that kind
-of complexity. And the way you do that
+00:23:00,570 --> 00:23:04,680
+A maneira de controlar esse tipo de
+complexidade. E a maneira pela qual você faz isso
 
 326
-00:23:05,062 --> 00:23:06,489
-is by establishing
+00:23:05,060 --> 00:23:06,480
+é estabelecendo
 
 327
-00:23:06,921 --> 00:23:09,155
-conventional interfaces.
+00:23:06,920 --> 00:23:09,150
+interfaces convencionais.
 
 328
-00:23:16,874 --> 00:23:18,642
-Agreed upon ways
+00:23:16,870 --> 00:23:18,640
+Maneiras acordadas
 
 329
-00:23:19,041 --> 00:23:22,035
-of plugging things together,
-just like in electrical engineering
+00:23:19,040 --> 00:23:22,030
+de juntar as coisas,
+assim como em engenharia elétrica
 
 330
-00:23:22,534 --> 00:23:25,394
-people have standard
-impedances for connectors.
+00:23:22,530 --> 00:23:25,390
+as pessoas tem impedâncias
+padrão para conectores.
 
 331
-00:23:25,909 --> 00:23:28,193
-And then you know if you build something
-with one of the standard impedances, you
+00:23:25,900 --> 00:23:28,190
+E então você sabe que se você construir algo
+com uma dessas impedâncias padrão, você
 
 332
-00:23:28,594 --> 00:23:32,154
-can plug it together with something else.
+00:23:28,590 --> 00:23:32,150
+pode uni-la com alguma outra coisa.
 
 333
-00:23:32,778 --> 00:23:35,403
-That's gonna be our second
-large topic, conventional interfaces.
+00:23:32,770 --> 00:23:35,400
+Este será o nosso segundo
+grande tópico, interfaces convecionais.
 
 334
-00:23:35,765 --> 00:23:36,860
-What we're gonna see
+00:23:35,760 --> 00:23:36,860
+O que nós iremos ver
 
 335
-00:23:37,624 --> 00:23:40,504
-is first we're gonna talk about
-the problem of generic operations,
+00:23:37,620 --> 00:23:40,500
+é que primeiro nós iremos falar
+sobre o problema das operações genéricas,
 
 336
-00:23:40,805 --> 00:23:42,211
-which is the one I alluded to.
+00:23:40,800 --> 00:23:42,210
+que é aquela a qual eu fiz alusão.
 
 337
-00:23:42,527 --> 00:23:47,654
-Things like plus that have to
-work with all different kinds of data.
+00:23:42,520 --> 00:23:47,650
+Coisas como a adição que devem
+funcionar com todos os diferentes tipos de dados
 
 338
-00:23:52,264 --> 00:23:54,361
-So we'll talk about generic operations.
+00:23:52,260 --> 00:23:54,360
+Então nós iremos falar sobre operações genéricas.
 
 339
-00:23:54,662 --> 00:23:57,447
-Then we're gonna talk
-about really large scale structures.
+00:23:54,660 --> 00:23:57,440
+Então nós iremos falar 
+sobre estruturas de grandes escalas.
 
 340
-00:23:57,985 --> 00:24:01,240
-How do you put together
-very large programs that model
+00:23:57,980 --> 00:24:01,240
+Como você junta 
+programas muito grandes que modelam
 
 341
-00:24:01,641 --> 00:24:04,655
-the kinds of complex systems in the
-real world that you'd like to model.
+00:24:01,640 --> 00:24:04,650
+os tipos de sistemas complexos do 
+mundo real que você gostaria de modelar.
 
 342
-00:24:05,056 --> 00:24:10,046
-And what we're gonna see is that
-there are two very important metaphors
+00:24:05,050 --> 00:24:10,040
+E o que nós iremos ver é que 
+existem duas metáforas muito importantes
 
 343
-00:24:10,447 --> 00:24:11,497
-for putting together such systems.
+00:24:10,440 --> 00:24:11,490
+sobre juntar sistemas assim
 
 344
-00:24:11,798 --> 00:24:16,200
-One is called object oriented
-programming where you sort of think of
+00:24:11,790 --> 00:24:16,200
+Uma se chama programação orientada a 
+objetos na qual você meio que pensa sobre
 
 345
-00:24:16,814 --> 00:24:18,730
-your system as a kind of society
+00:24:16,810 --> 00:24:18,730
+o seu sistema como um tipo de sociedade
 
 346
-00:24:19,031 --> 00:24:22,507
-for little things that interact
-by sending information between them.
+00:24:19,030 --> 00:24:22,500
+para pequenas coisas que interagem 
+mandando informações entre si.
 
 347
-00:24:23,201 --> 00:24:27,466
-And then a second one is
-operations on aggregates called streams
+00:24:23,200 --> 00:24:27,460
+E a segunda é 
+operações em agregados chamados fluxos
 
 348
-00:24:27,766 --> 00:24:29,137
-where you think of a large system
+00:24:27,760 --> 00:24:29,130
+quando você pensa em um grande sistema
 
 349
-00:24:29,438 --> 00:24:32,700
-put together kind of
-like a signal processing engineer
+00:24:29,430 --> 00:24:32,700
+combinado como um 
+engenheiro de processamento de sinais
 
 350
-00:24:33,000 --> 00:24:35,857
-puts together a large electrical system.
+00:24:33,000 --> 00:24:35,850
+combina um grande sistema elétrico.
 
 351
-00:24:38,998 --> 00:24:40,721
-That's gonna be our second topic.
+00:24:38,990 --> 00:24:40,720
+Este será o nosso segundo tópico.
 
 352
-00:24:43,065 --> 00:24:45,416
-Now, the third thing we're gonna come to
+00:24:43,060 --> 00:24:45,410
+Agora, a terceira coisa que iremos ver
 
 353
-00:24:45,817 --> 00:24:51,096
-the third basic technique for controlling
-complexity is making new languages.
+00:24:45,810 --> 00:24:51,090
+A terceira técnica básica para controlar 
+complexidade é fazer novas linguagens.
 
 354
-00:24:51,494 --> 00:24:52,671
-Cause sometimes,
+00:24:51,490 --> 00:24:52,670
+Porque às vezes,
 
 355
-00:24:53,028 --> 00:24:55,110
-when you sort of overwhelmed
-by the complexity of your design,
+00:24:53,020 --> 00:24:55,110
+Quando você está sobrecarregado 
+pela complexidade do seu design,
 
 356
-00:24:55,487 --> 00:24:59,991
-the way that you control that complexity
-is to pick a new design language.
+00:24:55,480 --> 00:24:59,990
+A maneira pela qual você controla essa complexidade
+é escolhendo uma nova linguagem de design.
 
 357
-00:25:01,164 --> 00:25:02,542
-And the purpose of the new design language
+00:25:01,160 --> 00:25:02,540
+E o propósito de uma nova linguagem de design
 
 358
-00:25:02,843 --> 00:25:05,487
-will be to highlight
-different aspects of the system.
+00:25:02,840 --> 00:25:05,480
+Será iluminar
+diferentes aspectos do sistema.
 
 359
-00:25:05,818 --> 00:25:09,439
-It'll suppress some kinds of details
-and emphasize other kinds of details.
+00:25:05,810 --> 00:25:09,430
+Ela irá suprimir alguns detalhes
+e enfatizar outros tipos de detalhes
 
 360
-00:25:12,446 --> 00:25:15,480
-This is gonna be the third,
-the most magical part of the course.
+00:25:12,440 --> 00:25:15,480
+Este será a terceira,
+mais mágica parte do nosso curso
 
 361
-00:25:15,881 --> 00:25:19,202
-We're gonna start out
-by actually looking at the technology
+00:25:15,880 --> 00:25:19,200
+Nós iremos começar
+olhando para a tecnologia
 
 362
-00:25:19,553 --> 00:25:21,230
-for building new computer languages
+00:25:19,550 --> 00:25:21,230
+Para construir novas linguagens de computador
 
 363
-00:25:21,631 --> 00:25:27,089
-and the first thing we're
-gonna do is actually build in LISP...
+00:25:21,630 --> 00:25:27,080
+E a primeira coisa que iremos
+fazer é construir em LISP...
 
 364
-00:25:28,318 --> 00:25:33,781
-We're gonna express in LISP
-the process of interpreting LISP itself.
+00:25:28,310 --> 00:25:33,780
+Nós iremos expressar em LISP
+o processo de interpretar o próprio LISP.
 
 365
-00:25:34,135 --> 00:25:36,426
-And that's gonna be
-very sort of self-circular thing.
+00:25:34,130 --> 00:25:36,420
+E isto será algo bastante auto-circular.
 
 366
-00:25:36,727 --> 00:25:39,496
-There's a little mystical symbol
-that has to do with that.
+00:25:36,720 --> 00:25:39,490
+Existe um pequeno símbolo mística
+que tem a ver com isso
 
 367
-00:25:39,831 --> 00:25:43,229
-We'll see that the process
-of interpreting LISP is sort of...
+00:25:39,830 --> 00:25:43,220
+Nós iremos ver que o processo
+de interpretar LISP é algo como...
 
 368
-00:25:44,040 --> 00:25:47,427
-a giant wheel
-of two processes, apply and eval,
+00:25:44,040 --> 00:25:47,420
+uma grande roda
+de dois processos, Apply (aplicar) e Eval (avaliar),
 
 369
-00:25:47,839 --> 00:25:50,988
-which sort of constantly
-reduce expressions to each other.
+00:25:47,830 --> 00:25:50,980
+que meio que constantemente
+reduzem expressões entre si.
 
 370
-00:25:52,051 --> 00:25:56,209
+00:25:52,050 --> 00:25:56,200
 Now, we're gonna see also other magical
 things. Here's another magical symbol.
 
 371
-00:25:56,980 --> 00:25:58,283
+00:25:56,980 --> 00:25:58,280
 This is kind of the...
 
 372
-00:25:59,760 --> 00:26:00,984
+00:25:59,760 --> 00:26:00,980
 This is sort of the Y-operator,
 
 373
-00:26:01,366 --> 00:26:06,185
+00:26:01,360 --> 00:26:06,180
 which is in some sense the expression of
 infinity inside our procedural language.
 
 374
-00:26:06,520 --> 00:26:07,922
+00:26:06,520 --> 00:26:07,920
 We'll take a look at that.
 
 375
-00:26:08,224 --> 00:26:10,118
+00:26:08,220 --> 00:26:10,110
 In any case this section of the course
 
 376
-00:26:10,448 --> 00:26:14,007
+00:26:10,440 --> 00:26:14,000
 is called metalinguistic abstraction.
 
 377
-00:26:15,959 --> 00:26:22,968
+00:26:15,950 --> 00:26:22,960
 By talking, abstracting by talking about
 
 378
-00:26:23,945 --> 00:26:26,562
+00:26:23,940 --> 00:26:26,560
 how you construct new languages
 
 379
-00:26:29,830 --> 00:26:31,901
+00:26:29,830 --> 00:26:31,900
 as I said we're gonna start out
 
 380
-00:26:32,420 --> 00:26:36,321
+00:26:32,420 --> 00:26:36,320
 by looking at the process of
 interpretation. We're gonna look at
 
 381
-00:26:36,822 --> 00:26:38,680
+00:26:36,820 --> 00:26:38,680
 this apply/eval loop.
 
 382
@@ -1788,1246 +1787,1246 @@ this apply/eval loop.
 and build LISP.
 
 383
-00:26:42,224 --> 00:26:44,021
+00:26:42,220 --> 00:26:44,020
 Then just to show you
 that this is very general
 
 384
-00:26:44,236 --> 00:26:47,907
+00:26:44,230 --> 00:26:47,900
 we're gonna use exactly the same technology
 to build a very different kind of language,
 
 385
-00:26:48,208 --> 00:26:50,294
+00:26:48,200 --> 00:26:50,290
 a so-called logic programming language,
 
 386
-00:26:50,509 --> 00:26:53,081
+00:26:50,500 --> 00:26:53,080
 where you don't really talk
 about procedures at all
 
 387
-00:26:53,470 --> 00:26:55,369
+00:26:53,470 --> 00:26:55,360
 that have inputs and outputs.
 What you do is talk about
 
 388
-00:26:55,703 --> 00:26:58,535
+00:26:55,700 --> 00:26:58,530
 relations between things.
 And then finally
 
 389
-00:26:59,027 --> 00:27:00,526
+00:26:59,020 --> 00:27:00,520
 we're gonna talk about how you
 
 390
-00:27:01,080 --> 00:27:05,198
+00:27:01,080 --> 00:27:05,190
 implement these things very concretely
 on a very simplest kind of machines.
 
 391
-00:27:05,499 --> 00:27:08,355
+00:27:05,490 --> 00:27:08,350
 Even... we'll see something like this,
 
 392
-00:27:08,989 --> 00:27:11,718
+00:27:08,980 --> 00:27:11,710
 which is... this is a picture of a chip
 
 393
-00:27:12,049 --> 00:27:16,204
+00:27:12,040 --> 00:27:16,200
 which is the LISP interpreter
 that we will be talking about,
 
 394
-00:27:16,680 --> 00:27:18,951
+00:27:16,680 --> 00:27:18,950
 then in hardware.
 
 395
-00:27:19,823 --> 00:27:24,119
+00:27:19,820 --> 00:27:24,110
 OK. Well, there's an outline
 of the course, three big topics:
 
 396
-00:27:24,753 --> 00:27:29,846
+00:27:24,750 --> 00:27:29,840
 Black-box abstraction, conventional
 interfaces, metalinguistic abstraction.
 
 397
-00:27:31,067 --> 00:27:35,663
+00:27:31,060 --> 00:27:35,660
 Well, let's take a break now
 and then we'll get started.
 
 398
-00:28:03,802 --> 00:28:07,004
+00:28:03,800 --> 00:28:07,000
 Well, let's actually
 start in learning LISP now.
 
 399
-00:28:07,853 --> 00:28:10,086
+00:28:07,850 --> 00:28:10,080
 Actually, we'll start up by learning
 something much more important.
 
 400
-00:28:10,486 --> 00:28:12,613
+00:28:10,480 --> 00:28:12,610
 Maybe, the very most
 important thing in this course.
 
 401
-00:28:13,074 --> 00:28:14,525
+00:28:13,070 --> 00:28:14,520
 Which is not LISP in particular,
 
 402
-00:28:14,869 --> 00:28:19,885
+00:28:14,860 --> 00:28:19,880
 of course, but rather a general framework
 for thinking about languages.
 
 403
-00:28:20,606 --> 00:28:24,409
+00:28:20,600 --> 00:28:24,400
 I already alluded to when somebody tells
 you they gonna show you a language,
 
 404
-00:28:24,809 --> 00:28:27,341
+00:28:24,800 --> 00:28:27,340
 what you should say is:
 alright, what I'd like you to tell me
 
 405
-00:28:27,685 --> 00:28:33,916
+00:28:27,680 --> 00:28:33,910
 is what are the primitive elements?
 
 406
-00:28:37,444 --> 00:28:38,622
+00:28:37,440 --> 00:28:38,620
 What does the language come with?
 
 407
-00:28:39,009 --> 00:28:43,328
+00:28:39,000 --> 00:28:43,320
 Then, what are the ways
 you put those together?
 
 408
-00:28:43,629 --> 00:28:47,984
+00:28:43,620 --> 00:28:47,980
 What are the means of combination?
 
 409
-00:28:50,215 --> 00:28:53,905
+00:28:50,210 --> 00:28:53,900
 What are the things that allow you
 to take these primitive elements
 
 410
-00:28:54,383 --> 00:28:56,747
+00:28:54,380 --> 00:28:56,740
 and build bigger things out of them?
 
 411
-00:28:57,775 --> 00:29:00,402
+00:28:57,770 --> 00:29:00,400
 What are the ways
 of putting things together?
 
 412
-00:29:01,175 --> 00:29:07,347
+00:29:01,170 --> 00:29:07,340
 And then,
 what are the means of abstraction?
 
 413
-00:29:08,018 --> 00:29:12,979
+00:29:08,010 --> 00:29:12,970
 How do we take those complicated things
 
 414
-00:29:15,535 --> 00:29:16,624
+00:29:15,530 --> 00:29:16,620
 and draw those boxes around them?
 
 415
-00:29:16,914 --> 00:29:18,143
+00:29:16,910 --> 00:29:18,140
 How do we name them
 
 416
-00:29:18,463 --> 00:29:21,208
+00:29:18,460 --> 00:29:21,200
 so that we can now use them
 as if they were primitive elements
 
 417
-00:29:21,593 --> 00:29:25,934
+00:29:21,590 --> 00:29:25,930
 in making still more complex things
 and so on, and so on, and so on?
 
 418
-00:29:26,834 --> 00:29:29,609
+00:29:26,830 --> 00:29:29,600
 So, when someone says to you:
 Gee, I have a great new computer language!
 
 419
-00:29:30,563 --> 00:29:34,606
+00:29:30,560 --> 00:29:34,600
 You don't say: How many characters
 does it take to invert a matrix?
 
 420
-00:29:35,575 --> 00:29:36,934
+00:29:35,570 --> 00:29:36,930
 Right? It's irrelevant.
 
 421
-00:29:37,284 --> 00:29:38,282
+00:29:37,280 --> 00:29:38,280
 Right? What you say is:
 
 422
-00:29:38,607 --> 00:29:41,965
+00:29:38,600 --> 00:29:41,960
 How, if the language
 did not come with matrices built in
 
 423
-00:29:42,307 --> 00:29:45,510
+00:29:42,300 --> 00:29:45,510
 or with something else built in,
 how could I then build that thing?
 
 424
-00:29:45,887 --> 00:29:48,246
+00:29:45,880 --> 00:29:48,240
 What are the means of combination
 which would allow me to do that?
 
 425
-00:29:48,547 --> 00:29:50,656
+00:29:48,540 --> 00:29:50,650
 And then,
 what are the means of the abstraction,
 
 426
-00:29:51,491 --> 00:29:53,708
+00:29:51,490 --> 00:29:53,700
 which allow me
 then to use those as elements
 
 427
-00:29:54,009 --> 00:29:56,782
+00:29:54,000 --> 00:29:56,780
 in making more complicated things yet.
 
 428
-00:29:58,904 --> 00:30:01,485
+00:29:58,900 --> 00:30:01,480
 Well, we're gonna see
 that LISP has some primitive data
 
 429
-00:30:02,103 --> 00:30:04,593
+00:30:02,100 --> 00:30:04,590
 and some primitive procedures.
 
 430
-00:30:05,375 --> 00:30:08,370
+00:30:05,370 --> 00:30:08,370
 In fact let's really start.
 
 431
-00:30:08,771 --> 00:30:13,069
+00:30:08,770 --> 00:30:13,060
 And here's a piece of
 primitive data in LISP. Let's see...
 
 432
-00:30:13,741 --> 00:30:16,138
+00:30:13,740 --> 00:30:16,130
 Number 3.
 
 433
-00:30:16,682 --> 00:30:19,417
+00:30:16,680 --> 00:30:19,410
 Actually, from being very pedantic
 that's not the number 3.
 
 434
-00:30:19,857 --> 00:30:25,516
+00:30:19,850 --> 00:30:25,510
 That's some symbol that represents...
 plays those concepts of the number 3.
 
 435
-00:30:26,560 --> 00:30:33,014
+00:30:26,560 --> 00:30:33,010
 And here's another...
 here's some more primitive data in LISP.
 
 436
-00:30:34,767 --> 00:30:39,733
+00:30:34,760 --> 00:30:39,730
 Seventeen point four.
 Actually, some representation of 17.4.
 
 437
-00:30:40,844 --> 00:30:45,649
+00:30:40,840 --> 00:30:45,640
 And, here's another one. Five.
 
 438
-00:30:46,490 --> 00:30:49,624
+00:30:46,490 --> 00:30:49,620
 Here's another
 primitive object that's built in LISP.
 
 439
-00:30:51,610 --> 00:30:56,477
+00:30:51,610 --> 00:30:56,470
 Addition. Actually, if we used the same
 kind of pedantic, this is a name
 
 440
-00:30:56,870 --> 00:30:59,528
+00:30:56,870 --> 00:30:59,520
 for the primitive method
 that's adding things.
 
 441
-00:31:00,129 --> 00:31:02,207
+00:31:00,120 --> 00:31:02,200
 Just like this is a name
 for what played those number 3,
 
 442
-00:31:02,508 --> 00:31:09,145
+00:31:02,500 --> 00:31:09,140
 this is a name for what played
 those concept of how you add things.
 
 443
-00:31:10,137 --> 00:31:11,714
+00:31:10,130 --> 00:31:11,710
 So those are some primitive elements.
 
 444
-00:31:12,066 --> 00:31:13,813
+00:31:12,060 --> 00:31:13,810
 I can put them together.
 
 445
-00:31:14,114 --> 00:31:18,304
+00:31:14,110 --> 00:31:18,300
 I can say, gee,
 what's the sum of 3 and 17.4 and 5?
 
 446
-00:31:18,608 --> 00:31:24,071
+00:31:18,600 --> 00:31:24,070
 The way I do that is to say let's apply
 
 447
-00:31:24,975 --> 00:31:31,494
+00:31:24,970 --> 00:31:31,490
 the sum operator to these three numbers.
 And I should get what? 8, 17,.. 25.4.
 
 448
-00:31:34,107 --> 00:31:38,152
+00:31:34,100 --> 00:31:38,150
 So, I should be able to ask LISP
 what the value of this is.
 
 449
-00:31:38,692 --> 00:31:41,501
+00:31:38,690 --> 00:31:41,500
 And it'll return 25.4.
 
 450
-00:31:43,117 --> 00:31:47,199
+00:31:43,110 --> 00:31:47,190
 Let's introduce some names.
 This thing that I typed
 
 451
-00:31:49,745 --> 00:31:55,242
+00:31:49,740 --> 00:31:55,240
 is called the combination.
 
 452
-00:31:56,555 --> 00:32:02,744
+00:31:56,550 --> 00:32:02,740
 And a combination consists in general
 of applying an operator
 
 453
-00:32:03,313 --> 00:32:05,420
+00:32:03,310 --> 00:32:05,420
 (so, this is an operator)
 
 454
-00:32:09,660 --> 00:32:15,408
+00:32:09,660 --> 00:32:15,400
 to some operands
 (these are the operands).
 
 455
-00:32:21,429 --> 00:32:23,309
+00:32:21,420 --> 00:32:23,300
 And of course
 I can make more complex things.
 
 456
-00:32:23,610 --> 00:32:28,623
+00:32:23,610 --> 00:32:28,620
 The reason I can get complexity out of
 this is because the operands themselves
 
 457
-00:32:29,267 --> 00:32:30,972
+00:32:29,260 --> 00:32:30,970
 in general can be combinations.
 
 458
-00:32:31,273 --> 00:32:33,133
+00:32:31,270 --> 00:32:33,130
 So, for instance, I could say what is
 
 459
-00:32:33,534 --> 00:32:41,190
+00:32:33,530 --> 00:32:41,190
 the sum of 3 and the product of 5 and 6,
 
 460
-00:32:41,749 --> 00:32:44,264
+00:32:41,740 --> 00:32:44,260
 and 8, and 2.
 
 461
-00:32:45,100 --> 00:32:47,158
+00:32:45,100 --> 00:32:47,150
 And I should get, let's see...
 
 462
-00:32:47,514 --> 00:32:54,849
+00:32:47,510 --> 00:32:54,840
 30, 40,.. 43.
 So LISP should tell me that that's 43.
 
 463
-00:32:55,785 --> 00:32:58,387
+00:32:55,780 --> 00:32:58,380
 Forming combinations...
 
 464
-00:32:58,920 --> 00:33:02,724
+00:32:58,920 --> 00:33:02,720
 well, is the basic means of combination
 that we'll be looking in.
 
 465
-00:33:04,341 --> 00:33:09,302
+00:33:04,340 --> 00:33:09,300
 And then, well, you see some syntax here.
 
 466
-00:33:10,289 --> 00:33:14,801
+00:33:10,280 --> 00:33:14,800
 LISP uses what is called prefix notation
 
 467
-00:33:16,259 --> 00:33:20,197
+00:33:16,250 --> 00:33:20,190
 which means that the operator...
 
 468
-00:33:21,347 --> 00:33:26,411
+00:33:21,340 --> 00:33:26,410
 is written to the left of the operands.
 It's just a convention.
 
 469
-00:33:27,495 --> 00:33:29,610
+00:33:27,490 --> 00:33:29,610
 And note that it's fully parenthesized.
 
 470
-00:33:29,943 --> 00:33:32,013
+00:33:29,940 --> 00:33:32,010
 And the parentheses
 make it completely unambiguous.
 
 471
-00:33:32,292 --> 00:33:34,460
+00:33:32,290 --> 00:33:34,460
 So by looking at this I can see that
 
 472
-00:33:35,824 --> 00:33:41,162
+00:33:35,820 --> 00:33:41,160
 there's the operator and there are
 one,.. two,.. three,.. four operands.
 
 473
-00:33:42,817 --> 00:33:47,906
+00:33:42,810 --> 00:33:47,900
 And I can see that the second operand
 here is itself some combination,
 
 474
-00:33:48,876 --> 00:33:51,621
+00:33:48,870 --> 00:33:51,620
 that has one operator and two operands.
 
 475
-00:33:52,445 --> 00:33:54,211
+00:33:52,440 --> 00:33:54,210
 Parentheses in LISP are a little bit...
 
 476
-00:33:54,585 --> 00:33:57,354
+00:33:54,580 --> 00:33:57,350
 well, are very unlike
 parentheses in conventional mathematics.
 
 477
-00:33:57,611 --> 00:34:00,122
+00:33:57,610 --> 00:34:00,120
 In mathematics we sort of
 use them to mean grouping.
 
 478
-00:34:01,157 --> 00:34:03,475
+00:34:01,150 --> 00:34:03,470
 And it sort of doesn't hurt if sometimes
 you leave out parentheses if
 
 479
-00:34:03,792 --> 00:34:05,447
+00:34:03,790 --> 00:34:05,440
 people understand that that's a group.
 
 480
-00:34:05,769 --> 00:34:08,313
+00:34:05,760 --> 00:34:08,310
 And in general it doesn't hurt
 if put in extra parentheses
 
 481
-00:34:08,628 --> 00:34:11,706
+00:34:08,620 --> 00:34:11,700
 because that maybe makes the grouping
 more distinct. LISP is not like that!
 
 482
-00:34:12,880 --> 00:34:18,952
+00:34:12,880 --> 00:34:18,950
 In LISP you can't leave out parentheses.
 And you can't put in extra parentheses.
 
 483
-00:34:19,153 --> 00:34:22,673
+00:34:19,150 --> 00:34:22,670
 'Cause putting in parentheses
 always means exactly and precisely
 
 484
-00:34:23,225 --> 00:34:25,809
+00:34:23,220 --> 00:34:25,800
 this is a combination,
 
 485
-00:34:26,168 --> 00:34:28,820
+00:34:26,160 --> 00:34:28,820
 which has meaning
 applying operator to operands.
 
 486
-00:34:29,140 --> 00:34:30,673
+00:34:29,140 --> 00:34:30,670
 And if I left this out,..
 
 487
-00:34:31,263 --> 00:34:34,239
+00:34:31,260 --> 00:34:34,230
 if I left those parentheses out
 it would mean something else.
 
 488
-00:34:35,249 --> 00:34:36,950
+00:34:35,240 --> 00:34:36,950
 In fact, the way to think about this
 
 489
-00:34:37,251 --> 00:34:40,097
+00:34:37,250 --> 00:34:40,090
 is really what I'm doing
 when I write something like this
 
 490
-00:34:40,439 --> 00:34:41,974
+00:34:40,430 --> 00:34:41,970
 is writing a tree.
 
 491
-00:34:42,371 --> 00:34:44,372
+00:34:42,370 --> 00:34:44,370
 So, this combination is a tree
 
 492
-00:34:44,729 --> 00:34:48,294
+00:34:44,720 --> 00:34:48,290
 that has a plus, and then a 3,
 
 493
-00:34:48,939 --> 00:34:54,010
+00:34:48,930 --> 00:34:54,010
 and then something else,
 and then 8, and a 2.
 
 494
-00:34:54,345 --> 00:34:58,455
+00:34:54,340 --> 00:34:58,450
 And then this something else here
 is itself a little subtree
 
 495
-00:34:59,526 --> 00:35:03,154
+00:34:59,520 --> 00:35:03,150
 that has a star, and a 5, and a 6.
 
 496
-00:35:03,685 --> 00:35:06,487
+00:35:03,680 --> 00:35:06,480
 And the way to think of that
 is really what's going on
 
 497
-00:35:07,237 --> 00:35:12,917
+00:35:07,230 --> 00:35:12,910
 are rewriting these trees,
 and parentheses are just a way
 
 498
-00:35:13,268 --> 00:35:17,625
+00:35:13,260 --> 00:35:17,620
 to write this two-dimensional structure
 as a linear character string.
 
 499
-00:35:18,868 --> 00:35:21,189
+00:35:18,860 --> 00:35:21,180
 Because when LISP first started
 
 500
-00:35:21,590 --> 00:35:23,632
+00:35:21,590 --> 00:35:23,630
 then people had teletypes
 or punchcards or whatever...
 
 501
-00:35:23,953 --> 00:35:25,248
+00:35:23,950 --> 00:35:25,240
 This was more convenient.
 
 502
-00:35:25,845 --> 00:35:30,458
+00:35:25,840 --> 00:35:30,450
 Maybe if LISP started today
 the syntax of LISP would look like that.
 
 503
-00:35:31,891 --> 00:35:35,547
+00:35:31,890 --> 00:35:35,540
 Well, let's look at what that
 actually looks like on the computer.
 
 504
-00:35:36,382 --> 00:35:40,569
+00:35:36,380 --> 00:35:40,560
 Here I have a LISP
 interaction set up. There's an editor.
 
 505
-00:35:40,970 --> 00:35:44,721
+00:35:40,970 --> 00:35:44,720
 And on top I'm gonna type some values
 and ask LISP what they are.
 
 506
-00:35:45,074 --> 00:35:48,732
+00:35:45,070 --> 00:35:48,730
 So, for instance I can say to LISP
 what's the value of that symbol?
 
 507
-00:35:49,313 --> 00:35:53,278
+00:35:49,310 --> 00:35:53,270
 That's 3. And I ask LISP to evaluate it.
 And now you see LISP has returned
 
 508
-00:35:53,899 --> 00:35:57,375
+00:35:53,890 --> 00:35:57,370
 on the bottom
 and said oh, yeah, that's 3.
 
 509
-00:35:57,631 --> 00:36:08,139
+00:35:57,630 --> 00:36:08,130
 Or I can say what's the sum of 3 and 4
 and 8? What's that combination?
 
 510
-00:36:08,968 --> 00:36:11,852
+00:36:08,960 --> 00:36:11,850
 And I ask LISP to evaluate it.
 
 511
-00:36:13,776 --> 00:36:15,853
+00:36:13,770 --> 00:36:15,850
 That's 15.
 
 512
-00:36:16,401 --> 00:36:20,736
+00:36:16,400 --> 00:36:20,730
 Or I can type in something more
 complicated. I can say what's the sum...
 
 513
-00:36:21,175 --> 00:36:24,931
+00:36:21,170 --> 00:36:24,930
 of the product of 3...
 
 514
-00:36:25,369 --> 00:36:33,847
+00:36:25,360 --> 00:36:33,840
 and the sum of 7 and 19.5...
 
 515
-00:36:34,993 --> 00:36:36,150
+00:36:34,990 --> 00:36:36,150
 And you notice here
 
 516
-00:36:36,548 --> 00:36:38,530
+00:36:36,540 --> 00:36:38,530
 that LISP has something built in
 that helps me keep track
 
 517
-00:36:38,876 --> 00:36:41,724
+00:36:38,870 --> 00:36:41,720
 of all these parentheses. Watch
 as I type the next close parenthesis
 
 518
-00:36:42,100 --> 00:36:45,365
+00:36:42,100 --> 00:36:45,360
 which is gonna close
 the combination starting with the star.
 
 519
-00:36:45,728 --> 00:36:47,277
+00:36:45,720 --> 00:36:47,270
 The opening one will flash.
 
 520
-00:36:47,696 --> 00:36:49,875
+00:36:47,690 --> 00:36:49,870
 There. I'll rub those out and do it again...
 
 521
-00:36:50,133 --> 00:36:52,787
+00:36:50,130 --> 00:36:52,780
 Type close
 and you see that closes the plus.
 
 522
-00:36:53,428 --> 00:36:56,793
+00:36:53,420 --> 00:36:56,790
 Close again that closes the star.
 
 523
-00:36:57,657 --> 00:37:00,916
+00:36:57,650 --> 00:37:00,910
 Now I'm back to the sum
 and maybe I'm gonna add that all to 4
 
 524
-00:37:01,480 --> 00:37:04,226
+00:37:01,480 --> 00:37:04,220
 That closes the plus,
 now I have a complete combination.
 
 525
-00:37:04,678 --> 00:37:08,545
+00:37:04,670 --> 00:37:08,540
 And I can ask LISP for the value
 of that. That kind of paren balancing
 
 526
-00:37:09,185 --> 00:37:12,763
+00:37:09,180 --> 00:37:12,760
 is something that's built into a lot
 of LISP systems to help you keep track
 
 527
-00:37:13,148 --> 00:37:16,504
+00:37:13,140 --> 00:37:16,500
 because it is kind of boring
 just by hand doing all this parentheses.
 
 528
-00:37:16,886 --> 00:37:20,732
+00:37:16,880 --> 00:37:20,730
 There's another kind of convention
 for keeping track of parentheses.
 
 529
-00:37:21,033 --> 00:37:23,898
+00:37:21,030 --> 00:37:23,890
 Let me write another
 complicated combination.
 
 530
-00:37:24,704 --> 00:37:27,153
+00:37:24,700 --> 00:37:27,150
 Let's say the sum of
 
 531
-00:37:27,695 --> 00:37:31,642
+00:37:27,690 --> 00:37:31,640
 the product of 3 and 5,
 
 532
-00:37:32,819 --> 00:37:36,830
+00:37:32,810 --> 00:37:36,830
 and add that to something and now
 what I'm gonna do is I'm gonna indent so
 
 533
-00:37:37,117 --> 00:37:39,630
+00:37:37,110 --> 00:37:39,630
 that the operands are written vertically
 
 534
-00:37:40,010 --> 00:37:41,869
+00:37:40,010 --> 00:37:41,860
 Let's the sum of that and the product
 
 535
-00:37:42,287 --> 00:37:49,335
+00:37:42,280 --> 00:37:49,330
 of 47 and... let's say the product of 47
 
 536
-00:37:50,047 --> 00:37:57,345
+00:37:50,040 --> 00:37:57,340
 with the difference of 20 and 6.8
 (that means subtract 6.8 from 20).
 
 537
-00:37:58,462 --> 00:38:03,163
+00:37:58,460 --> 00:38:03,160
 Now you see the parentheses close
 close the minus, close the star...
 
 538
-00:38:03,793 --> 00:38:04,949
+00:38:03,790 --> 00:38:04,940
 And now let's get another operator...
 
 539
-00:38:05,292 --> 00:38:07,332
+00:38:05,290 --> 00:38:07,330
 You see,
 the LISP editor here is indenting
 
 540
-00:38:07,707 --> 00:38:12,290
+00:38:07,700 --> 00:38:12,290
 to the right position automatically
 to help me keep track.
 
 541
-00:38:12,726 --> 00:38:18,326
+00:38:12,720 --> 00:38:18,320
 Again, I'll close that list parentheses
 again, you see, it balances the plus
 
 542
-00:38:19,803 --> 00:38:22,970
+00:38:19,800 --> 00:38:22,970
 Right, now I can say
 what's the value of that?
 
 543
-00:38:23,614 --> 00:38:27,448
+00:38:23,610 --> 00:38:27,440
 Right, so, those two things:
 
 544
-00:38:27,844 --> 00:38:30,604
+00:38:27,840 --> 00:38:30,600
 indenting to the right level,
 which is called pretty printing,
 
 545
-00:38:31,357 --> 00:38:33,587
+00:38:31,350 --> 00:38:33,580
 and flashing parentheses
 
 546
-00:38:33,899 --> 00:38:36,579
+00:38:33,890 --> 00:38:36,570
 are two things that a lot of
 LISP systems have built in
 
 547
-00:38:36,869 --> 00:38:39,491
+00:38:36,860 --> 00:38:39,490
 to help you keep track
 and you should learn how to use them.
 
 548
-00:38:41,524 --> 00:38:43,238
+00:38:41,520 --> 00:38:43,230
 OK. Well, those are the primitives.
 
 549
-00:38:44,669 --> 00:38:48,151
+00:38:44,660 --> 00:38:48,150
 There's a means of combination.
 Now let's go to the means of abstraction.
 
 550
-00:38:49,258 --> 00:38:53,404
+00:38:49,250 --> 00:38:53,400
 I'd like to be able to take the idea
 that I do some combination like this
 
 551
-00:38:53,750 --> 00:38:56,842
+00:38:53,750 --> 00:38:56,840
 and abstract it and give it a simple
 name so I can use that as an element,
 
 552
-00:38:57,243 --> 00:39:00,510
+00:38:57,240 --> 00:39:00,510
 and I do that in LISP with define.
 
 553
-00:39:00,910 --> 00:39:07,969
+00:39:00,910 --> 00:39:07,960
 So I could say for example define A
 
 554
-00:39:08,802 --> 00:39:15,713
+00:39:08,800 --> 00:39:15,710
 to be the product of 5 and 5.
 
 555
-00:39:17,720 --> 00:39:21,334
+00:39:17,720 --> 00:39:21,330
 And now I could say for example to LISP
 
 556
-00:39:21,964 --> 00:39:26,655
+00:39:21,960 --> 00:39:26,650
 what is the product of A and A?
 
 557
-00:39:27,258 --> 00:39:30,494
+00:39:27,250 --> 00:39:30,490
 And this should be 25,
 and this should be 625.
 
 558
-00:39:31,544 --> 00:39:35,734
+00:39:31,540 --> 00:39:35,730
 And then crucial thing I can now use A.
 
 559
-00:39:36,135 --> 00:39:37,836
+00:39:36,130 --> 00:39:37,830
 Here I've used it in the combination,
 
 560
-00:39:38,249 --> 00:39:43,157
+00:39:38,240 --> 00:39:43,150
 but I could use that in other more
 complicated things that I name in turn.
 
 561
-00:39:43,508 --> 00:39:48,379
+00:39:43,500 --> 00:39:48,370
 So I could say define B
 
 562
-00:39:49,554 --> 00:39:57,192
+00:39:49,550 --> 00:39:57,190
 to be the sum of A and product of 5 and A.
 
 563
-00:39:59,409 --> 00:40:01,017
+00:39:59,400 --> 00:40:01,010
 ... and close the plus...
 
 564
-00:40:02,939 --> 00:40:06,202
+00:40:02,930 --> 00:40:06,200
 Let's take a look at that on the
 computer and see how that looks.
 
 565
-00:40:07,992 --> 00:40:10,333
+00:40:07,990 --> 00:40:10,330
 So, well, I'll just type
 what wrote on the board.
 
 566
-00:40:10,704 --> 00:40:16,878
+00:40:10,700 --> 00:40:16,870
 I could say define A
 
 567
-00:40:17,609 --> 00:40:21,817
+00:40:17,600 --> 00:40:21,810
 to be the product of 5 and 5.
 
 568
-00:40:24,023 --> 00:40:25,334
+00:40:24,020 --> 00:40:25,330
 I'll tell that to LISP
 
 569
-00:40:25,713 --> 00:40:28,707
+00:40:25,710 --> 00:40:28,700
 and notice what LISP responded
 there with with an A in the bottom.
 
 570
-00:40:29,148 --> 00:40:31,082
+00:40:29,140 --> 00:40:31,080
 In general
 when you type in a definition of LISP
 
 571
-00:40:31,524 --> 00:40:34,887
+00:40:31,520 --> 00:40:34,880
 it responds with the symbol being defined.
 
 572
-00:40:35,561 --> 00:40:41,600
+00:40:35,560 --> 00:40:41,600
 Now, I could say to LISP
 what is the product of A and A?
 
 573
-00:40:42,538 --> 00:40:44,549
+00:40:42,530 --> 00:40:44,540
 So it says 625.
 
 574
-00:40:45,728 --> 00:40:50,321
+00:40:45,720 --> 00:40:50,320
 I can define B
 
 575
-00:40:51,324 --> 00:40:57,585
+00:40:51,320 --> 00:40:57,580
 to be the sum of A and the product
 
 576
-00:40:57,986 --> 00:41:04,344
+00:40:57,980 --> 00:41:04,340
 of 5 and A, close the paren,
 close the star, close the plus.
 
 577
-00:41:04,752 --> 00:41:06,835
+00:41:04,750 --> 00:41:06,830
 Close the define.
 
 578
-00:41:07,621 --> 00:41:09,060
+00:41:07,620 --> 00:41:09,060
 LISP says:
 OK. B.
 
 579
-00:41:09,337 --> 00:41:13,850
+00:41:09,330 --> 00:41:13,850
 There on the bottom. And now
 I can say to LISP what's the value of B?
 
 580
-00:41:17,010 --> 00:41:20,018
+00:41:17,010 --> 00:41:20,010
 And I can say something more
 complicated, like what's the sum
 
 581
-00:41:20,367 --> 00:41:26,205
+00:41:20,360 --> 00:41:26,200
 of A and the quotient of B and 5?
 
 582
-00:41:26,582 --> 00:41:30,032
+00:41:26,580 --> 00:41:30,030
 That slash is divide,
 another primitive operator.
 
 583
-00:41:30,379 --> 00:41:33,001
+00:41:30,370 --> 00:41:33,000
 I've divided B by 5 and added it to A.
 
 584
-00:41:33,502 --> 00:41:35,774
+00:41:33,500 --> 00:41:35,770
 LISP says:
 OK. That's 55.
 
 585
-00:41:36,509 --> 00:41:38,152
+00:41:36,500 --> 00:41:38,150
 Alright. So, there's what it looks like.
 
 586
-00:41:39,786 --> 00:41:42,913
+00:41:39,780 --> 00:41:42,910
 There's the basic means
 of defining something.
 
 587
-00:41:43,355 --> 00:41:49,341
+00:41:43,350 --> 00:41:49,340
 It's the simplest kind of naming,
 but it's not really very powerful.
 
 588
-00:41:49,812 --> 00:41:53,157
+00:41:49,810 --> 00:41:53,150
 See, what I'd really like to name...
 I'm gonna talk about general methods...
 
 589
-00:41:53,498 --> 00:41:55,848
+00:41:53,490 --> 00:41:55,840
 I'd like to name all the general idea
 
 590
-00:41:56,313 --> 00:42:00,626
+00:41:56,310 --> 00:42:00,620
 that for example I could multiply 5 by 5
 
 591
-00:42:03,213 --> 00:42:06,141
+00:42:03,210 --> 00:42:06,140
 ... or 6 by 6,..
 
 592
-00:42:06,419 --> 00:42:12,719
+00:42:06,410 --> 00:42:12,710
 ...  or 1001 by 1001,
 
 593
-00:42:14,653 --> 00:42:17,531
+00:42:14,650 --> 00:42:17,530
 ... or 1001.7 by 1001.7
 
 594
-00:42:17,830 --> 00:42:20,624
+00:42:17,830 --> 00:42:20,620
 Or I'd like to be able
 to name the general idea
 
 595
-00:42:22,127 --> 00:42:24,408
+00:42:22,120 --> 00:42:24,400
 of multiplying something by itself.
 
 596
-00:42:28,289 --> 00:42:30,105
+00:42:28,280 --> 00:42:30,100
 We know that it is
 that's called squaring.
 
 597
-00:42:31,558 --> 00:42:33,844
+00:42:31,550 --> 00:42:33,840
 And the way I can do that in LISP
 
 598
-00:42:34,463 --> 00:42:36,827
+00:42:34,460 --> 00:42:36,820
 is I can say
 
 599
-00:42:37,576 --> 00:42:40,790
+00:42:37,570 --> 00:42:40,790
 define...
 
 600
-00:42:43,371 --> 00:42:49,465
+00:42:43,370 --> 00:42:49,460
 to square some thing X
 
 601
-00:42:51,907 --> 00:42:56,974
+00:42:51,900 --> 00:42:56,970
 multiply X by itself.
 
 602
-00:42:57,849 --> 00:43:00,173
+00:42:57,840 --> 00:43:00,170
 And then, having done that, I could say
 
 603
-00:43:00,643 --> 00:43:08,068
+00:43:00,640 --> 00:43:08,060
 to LISP for example what's
 the square of 10? And LISP will say 100.
 
 604
-00:43:11,914 --> 00:43:14,472
+00:43:11,910 --> 00:43:14,470
 Let's actually look at that
 a little more closely.
 
 605
-00:43:15,337 --> 00:43:19,702
+00:43:15,330 --> 00:43:19,700
 There's the definition of square.
 To square something
 
 606
-00:43:20,258 --> 00:43:23,260
+00:43:20,250 --> 00:43:23,260
 multiply it by itself.
 
 607
-00:43:23,661 --> 00:43:25,688
+00:43:23,660 --> 00:43:25,680
 You see this X here.
 
 608
-00:43:26,284 --> 00:43:29,622
+00:43:26,280 --> 00:43:29,620
 Right? That X is kind of a pronoun which
 is the something that I'm gonna square.
 
 609
-00:43:31,275 --> 00:43:37,572
+00:43:31,270 --> 00:43:37,570
 And what I do is I multiply X by itself.
 
 610
-00:43:44,026 --> 00:43:47,703
+00:43:44,020 --> 00:43:47,700
 OK. So, there's a notation
 for defining a procedure.
 
 611
-00:43:48,104 --> 00:43:50,336
+00:43:48,100 --> 00:43:50,330
 Actually this is a little bit confusing,
 
 612
-00:43:50,755 --> 00:43:55,214
+00:43:50,750 --> 00:43:55,210
 because this is sort of how I
 might use square and I say square of X,
 
 613
-00:43:55,600 --> 00:43:56,992
+00:43:55,600 --> 00:43:56,990
 or square of 10,
 
 614
-00:43:57,463 --> 00:44:01,836
+00:43:57,460 --> 00:44:01,830
 but it's not making it very clear
 that I'm actually naming something.
 
 615
-00:44:02,985 --> 00:44:05,213
+00:44:02,980 --> 00:44:05,210
 So, let me write this
 definition in another way
 
 616
-00:44:05,609 --> 00:44:08,026
+00:44:05,600 --> 00:44:08,020
 that makes a little bit more clear
 that I'm naming something.
 
 617
-00:44:08,427 --> 00:44:14,386
+00:44:08,420 --> 00:44:14,380
 I'll say define square
 
 618
-00:44:17,984 --> 00:44:20,709
+00:44:17,980 --> 00:44:20,700
 to be...
 
 619
-00:44:22,281 --> 00:44:29,820
+00:44:22,280 --> 00:44:29,820
 lambda of X times X X.
 
 620
-00:44:36,202 --> 00:44:38,563
+00:44:36,200 --> 00:44:38,560
 Here I'm naming something square.
 
 621
-00:44:39,177 --> 00:44:42,513
+00:44:39,170 --> 00:44:42,510
 Just like over here
 I'm naming something A.
 
 622
-00:44:43,057 --> 00:44:44,435
+00:44:43,050 --> 00:44:44,430
 The thing that I'm naming square...
 
 623
-00:44:44,831 --> 00:44:48,642
+00:44:44,830 --> 00:44:48,640
 Here I named... the thing that I named A
 was the value of this combination.
 
 624
-00:44:49,179 --> 00:44:52,928
+00:44:49,170 --> 00:44:52,920
 Here the thing that I'm naming square
 is this thing that begins with lambda
 
 625
-00:44:53,354 --> 00:44:57,471
+00:44:53,350 --> 00:44:57,470
 and lambda is LISP's way
 of saying 'make a procedure'.
 
 626
-00:45:00,097 --> 00:45:03,080
+00:45:00,090 --> 00:45:03,080
 Let's look at that
 more closely on a slide.
 
 627
-00:45:03,925 --> 00:45:11,267
+00:45:03,920 --> 00:45:11,260
 The way I read that definition is to say
 I define square to be make a procedure
 
 628
-00:45:12,602 --> 00:45:13,772
+00:45:12,600 --> 00:45:13,770
 (that's what the lambda is)
 
 629
-00:45:14,151 --> 00:45:17,234
+00:45:14,150 --> 00:45:17,230
 Make a procedure
 with an argument named X
 
 630
-00:45:18,919 --> 00:45:23,838
+00:45:18,910 --> 00:45:23,830
 and what it does is return
 the result of multiplying X by itself.
 
 631
-00:45:24,871 --> 00:45:29,562
+00:45:24,870 --> 00:45:29,560
 Now, in general we're gonna be using...
 
 632
-00:45:30,572 --> 00:45:32,846
+00:45:30,570 --> 00:45:32,840
 We're gonna be using
 this top form of defining.
 
 633
-00:45:33,386 --> 00:45:34,884
+00:45:33,380 --> 00:45:34,880
 This is 'cause
 it's a little bit more convenient.
 
 634
-00:45:35,185 --> 00:45:38,526
+00:45:35,180 --> 00:45:38,520
 But don't lose sight
 of the fact that it's really this.
 
 635
-00:45:38,835 --> 00:45:41,233
+00:45:38,830 --> 00:45:41,230
 In fact as far as
 the LISP interpreter is concerned
 
 636
-00:45:41,578 --> 00:45:45,829
+00:45:41,570 --> 00:45:45,820
 there's no difference between
 typing this to it and typing this to it.
 
 637
-00:45:46,443 --> 00:45:48,995
+00:45:46,440 --> 00:45:48,990
 And there's a word for that:
 
 638
-00:45:50,650 --> 00:45:53,724
+00:45:50,650 --> 00:45:53,720
 Syntactic sugar.
 
 639
-00:45:54,416 --> 00:45:56,888
+00:45:54,410 --> 00:45:56,880
 What syntactic sugar means it's having
 
 640
-00:45:57,784 --> 00:46:01,058
+00:45:57,780 --> 00:46:01,050
 somewhat more convenient
 surface forms for typing something.
 
 641
-00:46:01,921 --> 00:46:06,416
+00:46:01,920 --> 00:46:06,410
 So, this is just really syntactic sugar
 for this underlying thing with the lambda.
 
 642
-00:46:07,257 --> 00:46:09,752
+00:46:07,250 --> 00:46:09,750
 And the reason you should
 remember that is don't forget
 
 643
-00:46:10,128 --> 00:46:13,875
+00:46:10,120 --> 00:46:13,870
 that when I write something like this
 I'm really naming something.
 
 644
-00:46:14,236 --> 00:46:15,896
+00:46:14,230 --> 00:46:15,890
 I'm naming something square
 
 645
-00:46:16,202 --> 00:46:18,394
+00:46:16,200 --> 00:46:18,390
 and this something that
 I'm naming square is a procedure
 
 646
-00:46:18,778 --> 00:46:20,560
+00:46:18,770 --> 00:46:20,560
 that's getting constructed.
 
 647
-00:46:21,317 --> 00:46:23,823
+00:46:21,310 --> 00:46:23,820
 OK. Well, let's look at that
 on the computer too.
 
 648
-00:46:24,739 --> 00:46:27,970
+00:46:24,730 --> 00:46:27,970
 So, I'll come in and I'll say define
 
 649
-00:46:29,383 --> 00:46:36,461
+00:46:29,380 --> 00:46:36,460
 square of X to be times X X.
 
 650
-00:46:39,475 --> 00:46:42,174
+00:46:39,470 --> 00:46:42,170
 And I can...
 
 651
-00:46:49,310 --> 00:46:52,461
+00:46:49,310 --> 00:46:52,460
 OK. I'll tell LISP that.
 
 652
-00:46:53,325 --> 00:46:57,952
+00:46:53,320 --> 00:46:57,950
 It says square as I have named
 something square and having done that,
 
 653
-00:46:58,473 --> 00:47:04,230
+00:46:58,470 --> 00:47:04,230
 I can ask LISP
 for what's the square of 1001.
 
 654
-00:47:05,016 --> 00:47:09,559
+00:47:05,010 --> 00:47:09,550
 Or in general I could say
 
 655
-00:47:10,136 --> 00:47:18,448
+00:47:10,130 --> 00:47:18,440
 what's the square of the sum of 5 and 7?
 
 656
@@ -3035,146 +3034,146 @@ what's the square of the sum of 5 and 7?
 Right? Square of 12 is 144.
 
 657
-00:47:25,124 --> 00:47:28,240
+00:47:25,120 --> 00:47:28,240
 Or I can use square itself
 as an element in some combination.
 
 658
-00:47:28,641 --> 00:47:39,179
+00:47:28,640 --> 00:47:39,170
 I can say what's the sum of
 the square of 3 and the square of 4?
 
 659
-00:47:41,293 --> 00:47:44,610
+00:47:41,290 --> 00:47:44,610
 Right? 9 and 16 is 25.
 
 660
-00:47:45,129 --> 00:47:49,843
+00:47:45,120 --> 00:47:49,840
 Or I can use square as an element
 in some much more complicated thing.
 
 661
-00:47:50,344 --> 00:48:01,533
+00:47:50,340 --> 00:48:01,530
 I can say what's the square of
 the square of the square of 1001?
 
 662
-00:48:07,624 --> 00:48:10,746
+00:48:07,620 --> 00:48:10,740
 And here's the square
 of the square of the square of 1001.
 
 663
-00:48:11,238 --> 00:48:16,941
+00:48:11,230 --> 00:48:16,940
 Well, I can say to LISP what is square
 itself? What's the value of that?
 
 664
-00:48:17,358 --> 00:48:19,633
+00:48:17,350 --> 00:48:19,630
 And LISP returns some conventional way
 
 665
-00:48:20,077 --> 00:48:21,838
+00:48:20,070 --> 00:48:21,830
 of telling me that that's a procedure
 
 666
-00:48:22,339 --> 00:48:23,934
+00:48:22,330 --> 00:48:23,930
 that's compound procedure square.
 
 667
-00:48:24,257 --> 00:48:26,367
+00:48:24,250 --> 00:48:26,360
 And the value of square is
 
 668
-00:48:26,895 --> 00:48:30,718
+00:48:26,890 --> 00:48:30,710
 this procedure. And the things
 with the stars and the brackets
 
 669
-00:48:31,101 --> 00:48:34,964
+00:48:31,100 --> 00:48:34,960
 are just LISP's
 conventional way of describing that.
 
 670
-00:48:36,287 --> 00:48:38,417
+00:48:36,280 --> 00:48:38,410
 OK. Let's look at...
 
 671
-00:48:39,295 --> 00:48:41,305
+00:48:39,290 --> 00:48:41,300
 at two more examples of defining.
 
 672
-00:48:44,714 --> 00:48:46,767
+00:48:44,710 --> 00:48:46,760
 Here are two more procedures.
 
 673
-00:48:47,216 --> 00:48:52,927
+00:48:47,210 --> 00:48:52,920
 I can define the average of X and Y
 to be the sum of X and Y divided by 2.
 
 674
-00:48:54,520 --> 00:49:01,098
+00:48:54,520 --> 00:49:01,090
 Or, having had average and square,
 
 675
-00:49:01,601 --> 00:49:04,453
+00:49:01,600 --> 00:49:04,450
 I can use that to talk about
 the mean square of something.
 
 676
-00:49:04,837 --> 00:49:09,995
+00:49:04,830 --> 00:49:09,990
 Which is the average
 of the square of X and the square of Y.
 
 677
-00:49:10,719 --> 00:49:12,639
+00:49:10,710 --> 00:49:12,630
 So, for example having done that,
 
 678
-00:49:13,089 --> 00:49:15,865
+00:49:13,080 --> 00:49:15,860
 I could say what's the mean square
 
 679
-00:49:22,192 --> 00:49:30,658
+00:49:22,190 --> 00:49:30,650
 of 2 and 3? And I should get
 the average of 4 and 9, which is 6.5.
 
 680
-00:49:32,815 --> 00:49:34,209
+00:49:32,810 --> 00:49:34,200
 The key thing here
 
 681
-00:49:34,965 --> 00:49:38,730
+00:49:34,960 --> 00:49:38,730
 is that having defined square
 I can use it as if it were primitive.
 
 682
-00:49:41,413 --> 00:49:44,072
+00:49:41,410 --> 00:49:44,070
 So, if we look here on the slide...
 
 683
-00:49:44,473 --> 00:49:45,831
+00:49:44,470 --> 00:49:45,830
 If I look at mean-square...
 
 684
-00:49:47,233 --> 00:49:49,708
+00:49:47,230 --> 00:49:49,700
 The person defining mean-square
 
 685
-00:49:50,155 --> 00:49:52,433
+00:49:50,150 --> 00:49:52,430
 doesn't have to know at this point
 
 686
-00:49:52,768 --> 00:49:55,788
+00:49:52,760 --> 00:49:55,780
 whether square was
 something built into the language
 
 687
-00:49:56,896 --> 00:49:59,211
+00:49:56,890 --> 00:49:59,210
 or whether it was a procedure
 that was defined.
 
 688
-00:49:59,649 --> 00:50:01,910
+00:49:59,640 --> 00:50:01,910
 And that's key thing in LISP.
 
 689
@@ -3183,186 +3182,186 @@ That you do not
 make arbitrary distinctions
 
 690
-00:50:06,866 --> 00:50:09,350
+00:50:06,860 --> 00:50:09,350
 between things that happen
 to be primitive in the language
 
 691
-00:50:09,779 --> 00:50:12,382
+00:50:09,770 --> 00:50:12,380
 and things that happen to be built in.
 
 692
-00:50:12,808 --> 00:50:16,218
+00:50:12,800 --> 00:50:16,210
 Person using it shouldn't even have
 to know. So the things you construct
 
 693
-00:50:16,520 --> 00:50:19,342
+00:50:16,520 --> 00:50:19,340
 get used with all the power and
 flexibility as if they were primitives.
 
 694
-00:50:19,743 --> 00:50:23,010
+00:50:19,740 --> 00:50:23,010
 In fact you can drive that home by
 looking on the computer one more time.
 
 695
-00:50:24,608 --> 00:50:28,952
+00:50:24,600 --> 00:50:28,950
 We talked about plus. And in fact
 if I come here on the computer screen
 
 696
-00:50:29,528 --> 00:50:32,756
+00:50:29,520 --> 00:50:32,750
 and say what is the value of plus?
 
 697
-00:50:34,176 --> 00:50:35,836
+00:50:34,170 --> 00:50:35,830
 Notice what LISP types out.
 
 698
-00:50:36,192 --> 00:50:38,987
+00:50:36,190 --> 00:50:38,980
 On the bottom there
 it typed out compound procedure +.
 
 699
-00:50:39,887 --> 00:50:42,420
+00:50:39,880 --> 00:50:42,420
 Because in this system it turns out
 
 700
-00:50:42,821 --> 00:50:45,562
+00:50:42,820 --> 00:50:45,560
 that the addition operator
 is itself a compound procedure.
 
 701
-00:50:45,885 --> 00:50:47,735
+00:50:45,880 --> 00:50:47,730
 And if I didn't just typed that in
 you'd never know that
 
 702
-00:50:48,092 --> 00:50:49,929
+00:50:48,090 --> 00:50:49,920
 and it wouldn't make any
 difference anyway. We don't care.
 
 703
-00:50:50,230 --> 00:50:53,394
+00:50:50,230 --> 00:50:53,390
 It's below the level of the
 abstraction that we're dealing with.
 
 704
-00:50:54,096 --> 00:50:57,826
+00:50:54,090 --> 00:50:57,820
 So, the key thing is you can not tell,..
 should not be able to tell
 
 705
-00:50:58,647 --> 00:51:02,190
+00:50:58,640 --> 00:51:02,190
 in general the difference
 between things that are built in
 
 706
-00:51:02,572 --> 00:51:03,572
+00:51:02,570 --> 00:51:03,570
 and things that are compound.
 
 707
-00:51:03,868 --> 00:51:05,441
+00:51:03,860 --> 00:51:05,440
 Why is that?
 Because the things that are compound
 
 708
-00:51:05,758 --> 00:51:08,232
+00:51:05,750 --> 00:51:08,230
 have an abstraction wrapper
 wrapped around them.
 
 709
-00:51:09,112 --> 00:51:11,901
+00:51:09,110 --> 00:51:11,900
 OK. We've seen almost
 all the elements of LISP now.
 
 710
-00:51:12,658 --> 00:51:14,121
+00:51:12,650 --> 00:51:14,120
 There's only one more we have to look at.
 
 711
-00:51:14,469 --> 00:51:16,216
+00:51:14,460 --> 00:51:16,210
 And that is how to make a case analysis.
 
 712
-00:51:16,583 --> 00:51:18,064
+00:51:16,580 --> 00:51:18,060
 Let me show you what I mean.
 
 713
-00:51:18,792 --> 00:51:20,399
+00:51:18,790 --> 00:51:20,390
 We might wanna think about the
 
 714
-00:51:21,098 --> 00:51:23,825
+00:51:21,090 --> 00:51:23,820
 mathematical definition
 of the absolute value function.
 
 715
-00:51:24,203 --> 00:51:27,807
+00:51:24,200 --> 00:51:27,800
 I might say the absolute value of X
 
 716
-00:51:28,624 --> 00:51:31,227
+00:51:28,620 --> 00:51:31,220
 is the function which has the property
 
 717
-00:51:31,682 --> 00:51:34,366
+00:51:31,680 --> 00:51:34,360
 that it's negative of X
 
 718
-00:51:35,639 --> 00:51:37,409
+00:51:35,630 --> 00:51:37,400
 for X less than zero,
 
 719
-00:51:37,915 --> 00:51:41,423
+00:51:37,910 --> 00:51:41,420
 it's zero for X equal to zero,
 
 720
-00:51:42,398 --> 00:51:47,114
+00:51:42,390 --> 00:51:47,110
 and it's X for X greater than zero.
 
 721
-00:51:49,125 --> 00:51:51,199
+00:51:49,120 --> 00:51:51,190
 And LISP has a way of making case analysis.
 
 722
-00:51:51,546 --> 00:51:53,816
+00:51:51,540 --> 00:51:53,810
 Let me define for you absolute value.
 
 723
-00:51:55,499 --> 00:52:00,737
+00:51:55,490 --> 00:52:00,730
 Say define the absolute value of X is
 
 724
-00:52:01,485 --> 00:52:06,438
+00:52:01,480 --> 00:52:06,430
 conditional... This means
 case analysis - cond.
 
 725
-00:52:09,272 --> 00:52:14,608
+00:52:09,270 --> 00:52:14,600
 If X is less than zero
 
 726
-00:52:15,288 --> 00:52:19,736
+00:52:15,280 --> 00:52:19,730
 the answer is negate X.
 
 727
-00:52:22,699 --> 00:52:26,640
+00:52:22,690 --> 00:52:26,640
 Right, what I've written here
 is a clause. This is a...
 
 728
-00:52:28,687 --> 00:52:32,199
+00:52:28,680 --> 00:52:32,190
 This something is a conditional clause.
 
 729
-00:52:34,130 --> 00:52:41,602
+00:52:34,130 --> 00:52:41,600
 And it has two parts.
 This part here is a predicate,..
 
 730
-00:52:44,112 --> 00:52:45,719
+00:52:44,110 --> 00:52:45,710
 condition, that's a condition.
 
 731
@@ -3371,748 +3370,748 @@ The condition is expressed
 by something called a predicate.
 
 732
-00:52:48,456 --> 00:52:50,928
+00:52:48,450 --> 00:52:50,920
 And a predicate in LISP
 is some sort of thing
 
 733
-00:52:51,331 --> 00:52:53,050
+00:52:51,330 --> 00:52:53,050
 that returns either true or false.
 
 734
-00:52:53,478 --> 00:52:56,594
+00:52:53,470 --> 00:52:56,590
 And you see LISP has
 a primitive procedure less than,
 
 735
-00:52:57,225 --> 00:52:59,587
+00:52:57,220 --> 00:52:59,580
 that tests
 whether something is true or false.
 
 736
-00:53:00,518 --> 00:53:02,555
+00:53:00,510 --> 00:53:02,550
 And the other part of a clause
 
 737
-00:53:03,491 --> 00:53:06,676
+00:53:03,490 --> 00:53:06,670
 is an action or a thing to do
 
 738
-00:53:07,020 --> 00:53:09,677
+00:53:07,020 --> 00:53:09,670
 in the case where that's true.
 And here what I'm doing is negating X.
 
 739
-00:53:10,002 --> 00:53:14,063
+00:53:10,000 --> 00:53:14,060
 The negation operator, well, the minus
 sign in LISP is a little bit funny.
 
 740
-00:53:14,492 --> 00:53:17,607
+00:53:14,490 --> 00:53:17,600
 If there are two or more arguments...
 
 741
-00:53:18,007 --> 00:53:21,411
+00:53:18,000 --> 00:53:21,410
 if there are two arguments then it
 subtracts the second one from the first.
 
 742
-00:53:21,781 --> 00:53:23,996
+00:53:21,780 --> 00:53:23,990
 We saw that. And if there's
 one argument then it negates it.
 
 743
-00:53:25,025 --> 00:53:27,297
+00:53:25,020 --> 00:53:27,290
 So, this corresponds to that.
 
 744
-00:53:27,686 --> 00:53:32,833
+00:53:27,680 --> 00:53:32,830
 And there's another kind of clause. It
 says in the case where X is equal to 0
 
 745
-00:53:34,458 --> 00:53:36,835
+00:53:34,450 --> 00:53:36,830
 the answer is zero.
 
 746
-00:53:37,584 --> 00:53:44,684
+00:53:37,580 --> 00:53:44,680
 And in the case where X is
 greater than zero the answer is X.
 
 747
-00:53:45,419 --> 00:53:49,090
+00:53:45,410 --> 00:53:49,090
 Close that clause, close the cond,
 close the definition.
 
 748
-00:53:49,543 --> 00:53:50,772
+00:53:49,540 --> 00:53:50,770
 There's a definition of absolute value
 
 749
-00:53:51,173 --> 00:53:52,511
+00:53:51,170 --> 00:53:52,510
 and you see that it's a case analysis
 
 750
-00:53:52,868 --> 00:53:55,881
+00:53:52,860 --> 00:53:55,880
 that looks very much like the
 case analysis you use in mathematics.
 
 751
-00:53:57,685 --> 00:54:02,847
+00:53:57,680 --> 00:54:02,840
 OK. There's a somewhat different way
 of writing a restricted case analysis.
 
 752
-00:54:03,104 --> 00:54:06,421
+00:54:03,100 --> 00:54:06,420
 Often you have a case analysis
 where you only have one case.
 
 753
-00:54:06,905 --> 00:54:08,304
+00:54:06,900 --> 00:54:08,300
 Or you test something and
 
 754
-00:54:08,651 --> 00:54:10,767
+00:54:08,650 --> 00:54:10,760
 depending on whether
 it's true or false you do something.
 
 755
-00:54:13,020 --> 00:54:17,115
+00:54:13,020 --> 00:54:17,110
 Here's another definition of absolute
 value which looks almost the same,
 
 756
-00:54:17,774 --> 00:54:22,707
+00:54:17,770 --> 00:54:22,700
 which says if X is less then zero,
 the result is negate X,
 
 757
-00:54:24,321 --> 00:54:25,823
+00:54:24,320 --> 00:54:25,820
 otherwise the answer is X.
 
 758
-00:54:26,214 --> 00:54:30,086
+00:54:26,210 --> 00:54:30,080
 We'll be using IF a lot. But again
 the thing to remember is that this form
 
 759
-00:54:30,487 --> 00:54:32,695
+00:54:30,480 --> 00:54:32,690
 of absolute value
 that you're looking at here
 
 760
-00:54:34,004 --> 00:54:36,945
+00:54:34,000 --> 00:54:36,940
 and then this one over here
 that I wrote on the board
 
 761
-00:54:37,486 --> 00:54:38,846
+00:54:37,480 --> 00:54:38,840
 are essentially the same.
 
 762
-00:54:39,140 --> 00:54:41,747
+00:54:39,140 --> 00:54:41,740
 And IF and COND are
 whichever way you like it.
 
 763
-00:54:42,048 --> 00:54:44,352
+00:54:42,040 --> 00:54:44,350
 You can think of COND
 as syntactic sugar for IF,
 
 764
-00:54:44,933 --> 00:54:46,819
+00:54:44,930 --> 00:54:46,810
 or you can think of IF
 as syntactic sugar for COND,
 
 765
-00:54:47,267 --> 00:54:48,670
+00:54:47,260 --> 00:54:48,670
 and it doesn't make any difference.
 
 766
-00:54:49,157 --> 00:54:51,032
+00:54:49,150 --> 00:54:51,030
 Person implementing
 a LISP system will pick one
 
 767
-00:54:51,333 --> 00:54:52,773
+00:54:51,330 --> 00:54:52,770
 and implement the other in terms of that,
 
 768
-00:54:53,116 --> 00:54:55,054
+00:54:53,110 --> 00:54:55,050
 and it doesn't matter which one he pick.
 
 769
-00:55:02,534 --> 00:55:04,978
+00:55:02,530 --> 00:55:04,970
 OK. Why don't we break now
 and then take some questions.
 
 770
-00:55:05,572 --> 00:55:07,213
+00:55:05,570 --> 00:55:07,210
 How come...
 
 771
-00:55:08,079 --> 00:55:10,443
+00:55:08,070 --> 00:55:10,440
 sometimes when I write define
 
 772
-00:55:11,118 --> 00:55:13,236
+00:55:11,110 --> 00:55:13,230
 I put an open paren here
 
 773
-00:55:14,181 --> 00:55:16,404
+00:55:14,180 --> 00:55:16,400
 and say define open paren
 some thing or other,
 
 774
-00:55:16,794 --> 00:55:20,907
+00:55:16,790 --> 00:55:20,900
 and sometimes when I write this
 I don't put an open paren?
 
 775
-00:55:22,225 --> 00:55:24,354
+00:55:22,220 --> 00:55:24,350
 OK. The answer is...
 
 776
-00:55:25,298 --> 00:55:29,044
+00:55:25,290 --> 00:55:29,040
 this particular form of define
 where you say define some expression
 
 777
-00:55:29,563 --> 00:55:32,267
+00:55:29,560 --> 00:55:32,260
 is this very special thing
 for defining procedures.
 
 778
-00:55:33,470 --> 00:55:40,727
+00:55:33,470 --> 00:55:40,720
 But again what it really means is I'm
 defining this symbol square to be that.
 
 779
-00:55:41,290 --> 00:55:45,942
+00:55:41,290 --> 00:55:45,940
 So, the way you should think about it is
 what define does is you write define
 
 780
-00:55:47,034 --> 00:55:49,709
+00:55:47,030 --> 00:55:49,700
 and then second thing you write
 is this symbol here, no open paren,
 
 781
-00:55:50,199 --> 00:55:51,653
+00:55:50,190 --> 00:55:51,650
 this symbol you're defining.
 
 782
-00:55:52,111 --> 00:55:57,182
+00:55:52,110 --> 00:55:57,180
 And what you're defining it to be...
 that's like here... and like here...
 
 783
-00:55:57,586 --> 00:56:00,578
+00:55:57,580 --> 00:56:00,570
 That's the sort of the
 basic way you use define
 
 784
-00:56:01,094 --> 00:56:03,556
+00:56:01,090 --> 00:56:03,550
 and then there's
 the special syntactic trick,
 
 785
-00:56:04,214 --> 00:56:07,399
+00:56:04,210 --> 00:56:07,390
 which allows you to define
 procedures that look like this.
 
 786
-00:56:08,032 --> 00:56:14,746
+00:56:08,030 --> 00:56:14,740
 So, the difference is it's whether
 or not you're defining a procedure.
 
 787
-00:56:38,089 --> 00:56:42,058
+00:56:38,080 --> 00:56:42,050
 Well, believe it or not,
 you actually now know enough LISP
 
 788
-00:56:42,700 --> 00:56:45,402
+00:56:42,700 --> 00:56:45,400
 to write essentially
 any numerical procedure,
 
 789
-00:56:46,039 --> 00:56:49,115
+00:56:46,030 --> 00:56:49,110
 that you'd write in a language
 like Fortran or Basic or whatever,
 
 790
-00:56:49,555 --> 00:56:51,241
+00:56:49,550 --> 00:56:51,240
 well, essentially any other language.
 
 791
-00:56:52,034 --> 00:56:54,681
+00:56:52,030 --> 00:56:54,680
 You probably think
 that's not believable, right?
 
 792
-00:56:55,028 --> 00:56:57,785
+00:56:55,020 --> 00:56:57,780
 Because you know that these languages
 have things like for statements
 
 793
-00:56:58,239 --> 00:57:00,397
+00:56:58,230 --> 00:57:00,390
 and do...until/while or something.
 
 794
-00:57:00,950 --> 00:57:04,795
+00:57:00,950 --> 00:57:04,790
 But we don't really need any of that.
 
 795
-00:57:05,158 --> 00:57:07,151
+00:57:05,150 --> 00:57:07,150
 We're not gonna use
 any of that in this course.
 
 796
-00:57:08,192 --> 00:57:12,935
+00:57:08,190 --> 00:57:12,930
 Let me show you
 by again looking back at square root.
 
 797
-00:57:13,336 --> 00:57:16,124
+00:57:13,330 --> 00:57:16,120
 Let's go back to this
 square root algorithm
 
 798
-00:57:17,188 --> 00:57:19,531
+00:57:17,180 --> 00:57:19,530
 of Heron of Alexandria.
 Remember what that said?
 
 799
-00:57:19,983 --> 00:57:26,589
+00:57:19,980 --> 00:57:26,580
 It said to find an approximation to
 the square root of X you make a guess,
 
 800
-00:57:27,307 --> 00:57:32,022
+00:57:27,300 --> 00:57:32,020
 you improve that guess by averaging
 the guess and X over the guess,
 
 801
-00:57:32,754 --> 00:57:35,993
+00:57:32,750 --> 00:57:35,990
 you keep improving that
 until the guess is good enough.
 
 802
-00:57:36,590 --> 00:57:38,177
+00:57:36,590 --> 00:57:38,170
 And I already alluded to the idea.
 
 803
-00:57:38,517 --> 00:57:42,235
+00:57:38,510 --> 00:57:42,230
 The idea is that
 if the initial guess that she took...
 
 804
-00:57:42,972 --> 00:57:46,702
+00:57:42,970 --> 00:57:46,700
 if that initial guess was actually
 equal to the square root of X,
 
 805
-00:57:47,117 --> 00:57:50,634
+00:57:47,110 --> 00:57:50,630
 then G here would be equal to X over G.
 
 806
-00:57:52,762 --> 00:57:55,159
+00:57:52,760 --> 00:57:55,150
 So if you hit the square root
 averaging wouldn't change it.
 
 807
-00:57:55,560 --> 00:57:59,865
+00:57:55,560 --> 00:57:59,860
 IF the G that you pick was larger
 than the square root of X
 
 808
-00:58:00,255 --> 00:58:02,573
+00:58:00,250 --> 00:58:02,570
 then X/G would be smaller
 then the square root of X,
 
 809
-00:58:03,122 --> 00:58:07,574
+00:58:03,120 --> 00:58:07,570
 so that when you average G and X/G
 you get something in between.
 
 810
-00:58:08,945 --> 00:58:12,663
+00:58:08,940 --> 00:58:12,660
 Right? So, if you pick a G that's too
 small, your answer will be too large.
 
 811
-00:58:13,074 --> 00:58:14,954
+00:58:13,070 --> 00:58:14,950
 If you pick a G that's too large...
 
 812
-00:58:16,192 --> 00:58:18,889
+00:58:16,190 --> 00:58:18,880
 if the G is larger than the square
 root of X then X/G will be smaller
 
 813
-00:58:19,190 --> 00:58:20,653
+00:58:19,190 --> 00:58:20,650
 than the square root of X.
 
 814
-00:58:21,090 --> 00:58:23,801
+00:58:21,090 --> 00:58:23,800
 So, averaging always
 gives you something in between
 
 815
-00:58:24,302 --> 00:58:28,587
+00:58:24,300 --> 00:58:28,580
 and then it's not quite trivial
 but it's possible to show that in fact
 
 816
-00:58:29,263 --> 00:58:31,255
+00:58:29,260 --> 00:58:31,250
 if G misses
 the square root of X by a little bit
 
 817
-00:58:31,682 --> 00:58:35,599
+00:58:31,680 --> 00:58:35,590
 the average of G and X/G
 will actually keep getting closer
 
 818
-00:58:36,682 --> 00:58:38,923
+00:58:36,680 --> 00:58:38,920
 to the square root of X.
 So if you keep doing this enough
 
 819
-00:58:39,350 --> 00:58:42,657
+00:58:39,350 --> 00:58:42,650
 you'll eventually get as close
 as you want and there's another fact
 
 820
-00:58:42,958 --> 00:58:47,635
+00:58:42,950 --> 00:58:47,630
 that you can always start out this
 process by using 1 as an initial guess,
 
 821
-00:58:49,168 --> 00:58:51,498
+00:58:49,160 --> 00:58:51,490
 and it will always converge
 to the square root of X.
 
 822
-00:58:52,107 --> 00:58:56,297
+00:58:52,100 --> 00:58:56,290
 Right? So, that is method of successive
 averaging due to Heron of Alexandria.
 
 823
-00:58:56,620 --> 00:58:59,311
+00:58:56,620 --> 00:58:59,310
 Let's write it in LISP.
 
 824
-00:58:59,812 --> 00:59:03,363
+00:58:59,810 --> 00:59:03,360
 Well, the central idea is
 
 825
-00:59:03,912 --> 00:59:07,463
+00:59:03,910 --> 00:59:07,460
 what does it mean to try a guess
 for the square root of X?
 
 826
-00:59:08,295 --> 00:59:10,672
+00:59:08,290 --> 00:59:10,670
 Let's write that. So we'll say
 
 827
-00:59:11,495 --> 00:59:13,624
+00:59:11,490 --> 00:59:13,620
 define...
 
 828
-00:59:15,292 --> 00:59:21,469
+00:59:15,290 --> 00:59:21,460
 to try a guess
 
 829
-00:59:23,227 --> 00:59:25,296
+00:59:23,220 --> 00:59:25,290
 for the square root of X...
 
 830
-00:59:26,152 --> 00:59:33,059
+00:59:26,150 --> 00:59:33,050
 What do we do?
 We'll say if the guess is good enough...
 
 831
-00:59:38,539 --> 00:59:45,199
+00:59:38,530 --> 00:59:45,190
 If the guess is good enough
 to be a guess for the square root of X,
 
 832
-00:59:46,375 --> 00:59:50,952
+00:59:46,370 --> 00:59:50,950
 then as an answer we'll take the guess.
 
 833
-00:59:51,536 --> 00:59:57,016
+00:59:51,530 --> 00:59:57,010
 Otherwise we will try the improved guess.
 
 834
-00:59:58,565 --> 01:00:02,163
+00:59:58,560 --> 01:00:02,160
 We'll improve that guess
 
 835
-01:00:02,772 --> 01:00:04,671
+01:00:02,770 --> 01:00:04,670
 for the square root of X
 
 836
-01:00:05,176 --> 01:00:09,081
+01:00:05,170 --> 01:00:09,080
 and will try that
 as a guess for the square root of X.
 
 837
-01:00:09,440 --> 01:00:12,732
+01:00:09,440 --> 01:00:12,730
 ... close the try,
 close the if, close the define.
 
 838
-01:00:13,255 --> 01:00:15,029
+01:00:13,250 --> 01:00:15,020
 So, that's how we try a guess.
 
 839
-01:00:15,641 --> 01:00:19,762
+01:00:15,640 --> 01:00:19,760
 And then the next part of the process
 said in order to compute square roots
 
 840
-01:00:21,192 --> 01:00:23,789
+01:00:21,190 --> 01:00:23,780
 we'll say define
 
 841
-01:00:25,539 --> 01:00:29,927
+01:00:25,530 --> 01:00:29,920
 to compute the square root of X
 
 842
-01:00:30,328 --> 01:00:36,187
+01:00:30,320 --> 01:00:36,180
 we will try 1 as a guess
 for the square root of X.
 
 843
-01:00:37,545 --> 01:00:39,405
+01:00:37,540 --> 01:00:39,400
 Well, we have to define
 a couple more things.
 
 844
-01:00:40,019 --> 01:00:45,379
+01:00:40,010 --> 01:00:45,370
 Well, we have to say how is a guess good
 enough and how do we improve a guess.
 
 845
-01:00:45,803 --> 01:00:49,532
+01:00:45,800 --> 01:00:49,530
 So let's look at that.
 The algorithm to improve the guess
 
 846
-01:00:50,178 --> 01:00:55,813
+01:00:50,170 --> 01:00:55,810
 Right? To improve a guess
 for the square root of X we average...
 
 847
-01:00:56,275 --> 01:00:58,359
+01:00:56,270 --> 01:00:58,350
 That was the algorithm...
 We average the guess
 
 848
-01:00:58,818 --> 01:01:04,354
+01:00:58,810 --> 01:01:04,350
 with the quotient of dividing X by the
 guess. That's how we improve the guess.
 
 849
-01:01:05,678 --> 01:01:08,366
+01:01:05,670 --> 01:01:08,360
 And to tell whether a guess is good
 enough for we have to decide something.
 
 850
-01:01:08,783 --> 01:01:11,018
+01:01:08,780 --> 01:01:11,010
 This is supposed to be a guess
 for the square root of X.
 
 851
-01:01:11,319 --> 01:01:12,923
+01:01:11,310 --> 01:01:12,920
 So, one possible thing you can do
 
 852
-01:01:13,281 --> 01:01:15,876
+01:01:13,280 --> 01:01:15,870
 is say when you
 take that guess and square it
 
 853
-01:01:16,627 --> 01:01:18,181
+01:01:16,620 --> 01:01:18,180
 do you get something very close to X?
 
 854
-01:01:18,582 --> 01:01:22,232
+01:01:18,580 --> 01:01:22,230
 For example one way to say that
 is to say I square the guess,
 
 855
-01:01:22,835 --> 01:01:27,464
+01:01:22,830 --> 01:01:27,460
 subtract X from that and see if
 the absolute value of that whole thing
 
 856
-01:01:27,865 --> 01:01:29,658
+01:01:27,860 --> 01:01:29,650
 is less than some small number,
 
 857
-01:01:30,449 --> 01:01:32,622
+01:01:30,440 --> 01:01:32,620
 which depends on my purposes.
 
 858
-01:01:34,750 --> 01:01:36,282
+01:01:34,750 --> 01:01:36,280
 OK. So, there's a...
 
 859
-01:01:37,545 --> 01:01:40,912
+01:01:37,540 --> 01:01:40,910
 there's a complete procedure
 for how to compute the square root of X.
 
 860
-01:01:41,362 --> 01:01:44,347
+01:01:41,360 --> 01:01:44,340
 Let's look at
 the structure of that a little bit.
 
 861
-01:01:48,402 --> 01:01:55,073
+01:01:48,400 --> 01:01:55,070
 I have the whole thing. I have the
 notion of how to compute a square root.
 
 862
-01:01:55,474 --> 01:01:58,249
+01:01:55,470 --> 01:01:58,240
 That's some kind of module.
 Right? That's some kind of black-box.
 
 863
-01:01:58,667 --> 01:02:01,964
+01:01:58,660 --> 01:02:01,960
 It's defined in terms of...
 
 864
-01:02:03,816 --> 01:02:08,217
+01:02:03,810 --> 01:02:08,210
 It's defined in terms of how to try
 a guess for the square root of X.
 
 865
-01:02:09,223 --> 01:02:15,840
+01:02:09,220 --> 01:02:15,840
 Try is defined in terms of, well,
 telling whether something is good enough
 
 866
-01:02:16,241 --> 01:02:18,277
+01:02:16,240 --> 01:02:18,270
 and telling how to improve something.
 
 867
-01:02:18,678 --> 01:02:24,139
+01:02:18,670 --> 01:02:24,130
 So, good enough...
 Try is defined in terms of good-enough?
 
 868
-01:02:25,397 --> 01:02:29,459
+01:02:25,390 --> 01:02:29,450
 and improve.
 
 869
-01:02:30,745 --> 01:02:32,328
+01:02:30,740 --> 01:02:32,320
 And (let's see what else I'm filling)...
 
 870
-01:02:32,726 --> 01:02:34,052
+01:02:32,720 --> 01:02:34,050
 If you go down this tree
 
 871
-01:02:34,610 --> 01:02:38,568
+01:02:34,610 --> 01:02:38,560
 good-enough? was defined
 in terms of absolute value and square.
 
 872
-01:02:40,642 --> 01:02:44,556
+01:02:40,640 --> 01:02:44,550
 And improve was defined
 in terms of something called averaging
 
 873
-01:02:45,028 --> 01:02:46,637
+01:02:45,020 --> 01:02:46,630
 and then some other primitive operators.
 
 874
-01:02:47,427 --> 01:02:50,867
+01:02:47,420 --> 01:02:50,860
 Square root is defined in terms of try.
 Try is defined in terms of good-enough?
 
 875
-01:02:52,072 --> 01:02:55,066
+01:02:52,070 --> 01:02:55,060
 and improve, but also try itself.
 
 876
-01:02:55,467 --> 01:03:01,075
+01:02:55,460 --> 01:03:01,070
 So try is also defined
 in terms of how to try itself.
 
 877
-01:03:02,713 --> 01:03:04,457
+01:03:02,710 --> 01:03:04,450
 Well, that may give you some problem.
 
 878
-01:03:04,975 --> 01:03:09,825
+01:03:04,970 --> 01:03:09,820
 Your high school geometry teacher
 probably told you that it's naughty
 
 879
-01:03:10,226 --> 01:03:13,324
+01:03:10,220 --> 01:03:13,320
 trying define things in terms of
 themselves, cause it doesn't make sense.
 
 880
-01:03:13,725 --> 01:03:15,442
+01:03:13,720 --> 01:03:15,440
 But that's false.
 
 881
-01:03:16,503 --> 01:03:19,734
+01:03:16,500 --> 01:03:19,730
 Sometimes it makes perfect sense
 to define things in terms of themselves.
 
 882
-01:03:20,260 --> 01:03:22,615
+01:03:20,260 --> 01:03:22,610
 And this is a case.
 
 883
-01:03:23,210 --> 01:03:25,756
+01:03:23,210 --> 01:03:25,750
 And we can look at that,
 we can write down what this means
 
 884
-01:03:26,222 --> 01:03:30,577
+01:03:26,220 --> 01:03:30,570
 Let's say suppose I ask LISP
 what the square root of 2 is.
 
 885
-01:03:32,572 --> 01:03:34,739
+01:03:32,570 --> 01:03:34,730
 Well, what does
 the square root of 2 mean?
 
 886
-01:03:35,651 --> 01:03:44,096
+01:03:35,650 --> 01:03:44,090
 Well, that means I try 1
 as a guess for the square root of 2.
 
 887
-01:03:46,731 --> 01:03:50,935
+01:03:46,730 --> 01:03:50,930
 Now, I look, I say gees, is 1 a good
 enough guess for the square root of 2?
 
 888
-01:03:51,655 --> 01:03:54,160
+01:03:51,650 --> 01:03:54,160
 That depends on the test
 that good-enough does.
 
 889
-01:03:54,562 --> 01:03:56,347
+01:03:54,560 --> 01:03:56,340
 And in this case
 the good-enough will say no,
 
 890
-01:03:56,701 --> 01:03:59,061
+01:03:56,700 --> 01:03:59,060
 1 is not a good enough guess
 for the square root of 2.
 
 891
-01:03:59,584 --> 01:04:01,366
+01:03:59,580 --> 01:04:01,360
 So, that will reduce to saying
 
 892
@@ -4120,287 +4119,287 @@ So, that will reduce to saying
 I have to try
 
 893
-01:04:06,818 --> 01:04:12,990
+01:04:06,810 --> 01:04:12,990
 the improved and improved... improve 1
 as a guess for the square root of 2
 
 894
-01:04:14,882 --> 01:04:17,860
+01:04:14,880 --> 01:04:17,860
 and try that as a guess
 for the square root of 2.
 
 895
-01:04:18,931 --> 01:04:25,731
+01:04:18,930 --> 01:04:25,730
 Improving 1 as a guess for the square
 root of 2 means I average 1 and 2/1.
 
 896
-01:04:26,980 --> 01:04:28,884
+01:04:26,980 --> 01:04:28,880
 So, this is gonna be the average...
 
 897
-01:04:29,464 --> 01:04:39,933
+01:04:29,460 --> 01:04:39,930
 this piece here will be the average
 of 1 and the quotient of 2 by 1.
 
 898
-01:04:40,883 --> 01:04:42,874
+01:04:40,880 --> 01:04:42,870
 So, this piece here.
 
 899
-01:04:43,848 --> 01:04:47,457
+01:04:43,840 --> 01:04:47,450
 And I'm gonna try... And this is 1.5...
 
 900
-01:04:49,010 --> 01:04:54,122
+01:04:49,010 --> 01:04:54,120
 So, this square root of 2 reduces
 to trying 1 for the square root of 2,
 
 901
-01:04:54,588 --> 01:05:02,200
+01:04:54,580 --> 01:05:02,200
 which reduces to trying 1.5
 
 902
-01:05:03,115 --> 01:05:05,592
+01:05:03,110 --> 01:05:05,590
 as a guess for the square root of 2.
 
 903
-01:05:06,032 --> 01:05:09,145
+01:05:06,030 --> 01:05:09,140
 Right? So that makes sense.
 Let's look at the rest of the process.
 
 904
-01:05:09,538 --> 01:05:14,430
+01:05:09,530 --> 01:05:14,430
 Here, if I try 1.5, that reduces...
 
 905
-01:05:14,831 --> 01:05:19,065
+01:05:14,830 --> 01:05:19,060
 1.5 turns out to be not good enough
 as a guess for the square root of 2.
 
 906
-01:05:19,879 --> 01:05:23,797
+01:05:19,870 --> 01:05:23,790
 So, that reduces to trying
 the average of 1.5 and 2/1.5
 
 907
-01:05:24,198 --> 01:05:26,561
+01:05:24,190 --> 01:05:26,560
 as a guess for the square root of 2.
 
 908
-01:05:28,127 --> 01:05:30,275
+01:05:28,120 --> 01:05:30,270
 That average turns out to be 1.3333,
 
 909
-01:05:30,959 --> 01:05:33,748
+01:05:30,950 --> 01:05:33,740
 So, this whole thing reduces
 to trying 1.3333 as a guess
 
 910
-01:05:34,149 --> 01:05:36,224
+01:05:34,140 --> 01:05:36,220
 for the square root of 2,and then so on.
 
 911
-01:05:37,298 --> 01:05:39,719
+01:05:37,290 --> 01:05:39,710
 Right? That reduces
 to another call to good-enough.
 
 912
-01:05:40,095 --> 01:05:45,812
+01:05:40,090 --> 01:05:45,810
 1.4xxx and then it keeps going until the
 process finally stops with something that
 
 913
-01:05:46,177 --> 01:05:51,371
+01:05:46,170 --> 01:05:51,370
 that good-enough thinks is good enough
 which in this case is 1.4142xxx.
 
 914
-01:05:52,366 --> 01:05:56,515
+01:05:52,360 --> 01:05:56,510
 So, the process makes perfect sense.
 
 915
-01:05:59,353 --> 01:06:06,366
+01:05:59,350 --> 01:06:06,360
 This by the way
 is called a recursive definition
 
 916
-01:06:13,928 --> 01:06:18,623
+01:06:13,920 --> 01:06:18,620
 And the ability to make
 recursive definitions
 
 917
-01:06:19,251 --> 01:06:20,823
+01:06:19,250 --> 01:06:20,820
 is a source of incredible power.
 
 918
-01:06:21,721 --> 01:06:23,653
+01:06:21,720 --> 01:06:23,650
 I've hinted that it's the thing
 
 919
-01:06:24,249 --> 01:06:27,252
+01:06:24,240 --> 01:06:27,250
 that effectively allows you to do
 these infinite computations that go on
 
 920
-01:06:27,653 --> 01:06:29,296
+01:06:27,650 --> 01:06:29,290
 until something is true.
 
 921
-01:06:29,621 --> 01:06:33,741
+01:06:29,620 --> 01:06:33,740
 Without having any other constructs other
 than the ability to call a procedure.
 
 922
-01:06:35,338 --> 01:06:38,979
+01:06:35,330 --> 01:06:38,970
 Let's see there's one more thing
 in this. Let me show you a variant
 
 923
-01:06:39,463 --> 01:06:41,317
+01:06:39,460 --> 01:06:41,310
 of this definition of square root.
 
 924
-01:06:43,119 --> 01:06:47,889
+01:06:43,110 --> 01:06:47,880
 Look here on this slide. Here is a...
 Here's a sort of the same thing.
 
 925
-01:06:48,248 --> 01:06:50,195
+01:06:48,240 --> 01:06:50,190
 What I've done here is packaged
 
 926
-01:06:50,609 --> 01:06:55,858
+01:06:50,600 --> 01:06:55,850
 the definitions of improve and
 good-enough and try inside square root.
 
 927
-01:06:56,639 --> 01:07:00,669
+01:06:56,630 --> 01:07:00,660
 So in fact what I've done
 is I've built the square root box.
 
 928
-01:07:01,746 --> 01:07:07,769
+01:07:01,740 --> 01:07:07,760
 I've built a box that's this square root
 procedure that someone can use.
 
 929
-01:07:08,170 --> 01:07:11,423
+01:07:08,170 --> 01:07:11,420
 They might put in 36 and get out 6.
 
 930
-01:07:11,833 --> 01:07:13,696
+01:07:11,830 --> 01:07:13,690
 And then packaged inside this box,
 
 931
-01:07:14,131 --> 01:07:24,247
+01:07:14,130 --> 01:07:24,240
 right, the definitions of try,
 and good-enough, and improve.
 
 932
-01:07:26,845 --> 01:07:30,583
+01:07:26,840 --> 01:07:30,580
 So they're hidden inside this box
 and the reason for doing that is that
 
 933
-01:07:31,104 --> 01:07:33,000
+01:07:31,100 --> 01:07:33,000
 if someone is using this square root...
 
 934
-01:07:33,360 --> 01:07:36,464
+01:07:33,360 --> 01:07:36,460
 if George is using this square root,
 George probably doesn't care very much
 
 935
-01:07:36,905 --> 01:07:39,545
+01:07:36,900 --> 01:07:39,540
 that when I implemented square root
 
 936
-01:07:40,058 --> 01:07:44,870
+01:07:40,050 --> 01:07:44,870
 I had things inside there
 called try and good-enough and improve.
 
 937
-01:07:46,018 --> 01:07:48,704
+01:07:46,010 --> 01:07:48,700
 And in fact, Harry
 might have a cube root procedure
 
 938
-01:07:49,105 --> 01:07:50,898
+01:07:49,100 --> 01:07:50,890
 that has try and good-enough and improve
 
 939
-01:07:51,257 --> 01:07:53,672
+01:07:51,250 --> 01:07:53,670
 And in order to not get the whole system
 confused it will be good for Harry
 
 940
-01:07:54,073 --> 01:07:57,824
+01:07:54,070 --> 01:07:57,820
 to package his internal procedures
 inside his cube root procedure.
 
 941
-01:07:58,272 --> 01:08:03,133
+01:07:58,270 --> 01:08:03,130
 This is called block structure.
 This particular way of packaging
 
 942
-01:08:05,583 --> 01:08:09,047
+01:08:05,580 --> 01:08:09,040
 internals inside of a definition.
 
 943
-01:08:09,692 --> 01:08:13,968
+01:08:09,690 --> 01:08:13,960
 And let's go back and look at this
 slide again. The way to read this
 
 944
-01:08:14,412 --> 01:08:18,641
+01:08:14,410 --> 01:08:18,640
 this kind of procedure is
 to say to define square root...
 
 945
-01:08:19,793 --> 01:08:21,553
+01:08:19,790 --> 01:08:21,550
 well, inside that definition
 
 946
-01:08:22,015 --> 01:08:24,423
+01:08:22,010 --> 01:08:24,420
 I'll have the definition of improve,
 
 947
-01:08:24,926 --> 01:08:29,259
+01:08:24,920 --> 01:08:29,250
 and the definition of good-enough,
 and the definition of try.
 
 948
-01:08:29,685 --> 01:08:35,393
+01:08:29,680 --> 01:08:35,390
 And then subject to those definitions
 the way I do square root is to try 1.
 
 949
-01:08:35,983 --> 01:08:39,189
+01:08:35,980 --> 01:08:39,180
 And notice here I don't have to say
 1 as a guess for the square root of X.
 
 950
-01:08:39,767 --> 01:08:44,462
+01:08:39,760 --> 01:08:44,460
 Because since it's all inside this
 square root it sort of has this X now.
 
 951
-01:08:54,223 --> 01:08:56,105
+01:08:54,220 --> 01:08:56,100
 OK. Well, let me summarize.
 
 952
-01:08:56,506 --> 01:08:58,623
+01:08:56,500 --> 01:08:58,620
 We started out with the idea
 
 953
-01:08:59,003 --> 01:09:03,562
+01:08:59,000 --> 01:09:03,560
 that what we're gonna be doing
 is expressing imperative knowledge.
 
 954
-01:09:04,965 --> 01:09:09,319
+01:09:04,960 --> 01:09:09,310
 And in fact here's a slide that
 summarizes the way we've looked at LISP.
 
@@ -4410,133 +4409,133 @@ We started out
 by looking at some primitive elements:
 
 956
-01:09:13,432 --> 01:09:15,323
+01:09:13,430 --> 01:09:15,320
 addition, multiplication,
 
 957
-01:09:15,796 --> 01:09:19,266
+01:09:15,790 --> 01:09:19,260
 some predicates for testing whether
 something is less than or something is equal
 
 958
-01:09:19,567 --> 01:09:21,110
+01:09:19,560 --> 01:09:21,110
 and in fact we saw really snickly
 
 959
-01:09:21,588 --> 01:09:24,517
+01:09:21,580 --> 01:09:24,510
 in the system we're actually using
 these aren't actually primitives
 
 960
-01:09:24,900 --> 01:09:26,208
+01:09:24,900 --> 01:09:26,200
 but it doesn't matter.
 
 961
-01:09:26,509 --> 01:09:28,186
+01:09:26,500 --> 01:09:28,180
 What matters is we're gonna
 use them as if they are primitives,
 
 962
-01:09:28,587 --> 01:09:29,922
+01:09:28,580 --> 01:09:29,920
 we're not gonna look inside.
 
 963
-01:09:30,223 --> 01:09:33,420
+01:09:30,220 --> 01:09:33,420
 We also have
 some primitive data... some numbers.
 
 964
-01:09:34,071 --> 01:09:39,128
+01:09:34,070 --> 01:09:39,120
 We saw some means of composition, means
 of combination, the basic one being
 
 965
-01:09:39,816 --> 01:09:44,379
+01:09:39,810 --> 01:09:44,370
 composing functions and building
 combinations with operators and operands.
 
 966
-01:09:44,796 --> 01:09:49,127
+01:09:44,790 --> 01:09:49,120
 And there is some other things
 like COND and IF and DEFINE.
 
 967
-01:09:51,099 --> 01:09:53,317
+01:09:51,090 --> 01:09:53,310
 But the main thing
 about define in particular
 
 968
-01:09:53,735 --> 01:09:57,151
+01:09:53,730 --> 01:09:57,150
 was that it was the means of abstraction,
 it was the way that we name things.
 
 969
-01:09:57,552 --> 01:09:59,603
+01:09:57,550 --> 01:09:59,600
 You can also see from this slide
 not only where we've been
 
 970
-01:10:00,004 --> 01:10:01,917
+01:10:00,000 --> 01:10:01,910
 but holes we have to fill in.
 At some point
 
 971
-01:10:02,339 --> 01:10:05,980
+01:10:02,330 --> 01:10:05,980
 we'll have to talk about how you combine
 primitive data to get compound data,
 
 972
-01:10:06,398 --> 01:10:08,059
+01:10:06,390 --> 01:10:08,050
 and how you abstract data,
 
 973
-01:10:08,518 --> 01:10:13,371
+01:10:08,510 --> 01:10:13,370
 so you can use large clumps
 of data as if they were primitive.
 
 974
-01:10:13,905 --> 01:10:15,839
+01:10:13,900 --> 01:10:15,830
 So, that's where we're going.
 
 975
-01:10:16,315 --> 01:10:22,403
+01:10:16,310 --> 01:10:22,400
 But before we do that for the next couple
 of lectures we're gonna be talking about
 
 976
-01:10:23,156 --> 01:10:28,148
+01:10:23,150 --> 01:10:28,140
 first of all how it is that you make a
 link between these procedures we write
 
 977
-01:10:28,633 --> 01:10:31,167
+01:10:28,630 --> 01:10:31,160
 and the processes
 that happen in the machine.
 
 978
-01:10:31,973 --> 01:10:33,629
+01:10:31,970 --> 01:10:33,620
 And then how it is
 
 979
-01:10:34,030 --> 01:10:35,735
+01:10:34,030 --> 01:10:35,730
 that you start using the power of LISP
 
 980
-01:10:36,291 --> 01:10:39,449
+01:10:36,290 --> 01:10:39,440
 to talk not only about
 these individual little computations
 
 981
-01:10:39,850 --> 01:10:44,449
+01:10:39,850 --> 01:10:44,440
 but about general
 conventional methods of doing things.
 
 982
-01:10:44,974 --> 01:10:46,475
+01:10:44,970 --> 01:10:46,470
 OK. Are there any questions?
 
 983
-01:10:46,804 --> 01:10:50,411
+01:10:46,800 --> 01:10:50,410
 -Yes.If we'd defined A using parentheses
 
 984
@@ -4545,97 +4544,97 @@ instead of as we did
 what would be the difference?
 
 985
-01:10:53,391 --> 01:10:55,099
+01:10:53,390 --> 01:10:55,090
 -If I wrote this...
 
 986
-01:10:55,752 --> 01:11:02,669
+01:10:55,750 --> 01:11:02,660
 If I wrote that what I would be doing
 is defining a procedure named A,
 
 987
-01:11:03,098 --> 01:11:04,997
+01:11:03,090 --> 01:11:04,990
 in this case a procedure of no arguments,
 
 988
-01:11:06,302 --> 01:11:10,339
+01:11:06,300 --> 01:11:10,330
 which when I ran it
 would give me back 5 times 5.
 
 989
-01:11:10,696 --> 01:11:13,453
+01:11:10,690 --> 01:11:13,450
 - I mean you come over the same thing
 except for you really got a difference.
 
 990
-01:11:13,809 --> 01:11:14,734
+01:11:13,800 --> 01:11:14,730
 - Right. And the difference...
 
 991
-01:11:15,147 --> 01:11:18,615
+01:11:15,140 --> 01:11:18,610
 the difference would be in the old one,
 let me be a little bit clearer here...
 
 992
-01:11:20,089 --> 01:11:23,748
+01:11:20,080 --> 01:11:23,740
 Let's call this A like here.
 
 993
-01:11:24,112 --> 01:11:26,305
+01:11:24,110 --> 01:11:26,300
 And then pretend here just for contrast
 
 994
-01:11:27,113 --> 01:11:29,528
+01:11:27,110 --> 01:11:29,520
 I wrote define...
 
 995
-01:11:30,604 --> 01:11:37,818
+01:11:30,600 --> 01:11:37,810
 D to be the product of 5 and 5.
 
 996
-01:11:39,695 --> 01:11:41,413
+01:11:39,690 --> 01:11:41,410
 And the difference between those.
 
 997
-01:11:41,865 --> 01:11:44,427
+01:11:41,860 --> 01:11:44,420
 Let's think about interactions
 with the LISP interpreter.
 
 998
-01:11:45,561 --> 01:11:49,357
+01:11:45,560 --> 01:11:49,350
 I would type in A
 and LISP would return 25.
 
 999
-01:11:52,852 --> 01:11:59,527
+01:11:52,850 --> 01:11:59,520
 I could type in D...
 if I just type in D, LISP would return
 
 1000
-01:12:01,144 --> 01:12:06,569
+01:12:01,140 --> 01:12:06,560
 compound procedure D.
 
 1001
-01:12:07,345 --> 01:12:09,027
+01:12:07,340 --> 01:12:09,020
 'Cause that's what it is,
 it's a procedure.
 
 1002
-01:12:09,524 --> 01:12:12,110
+01:12:09,520 --> 01:12:12,110
 I could run D. I could say
 what's the value of running D?
 
 1003
-01:12:12,511 --> 01:12:15,247
+01:12:12,510 --> 01:12:15,240
 Here is a combination with no operands.
 
 1004
-01:12:16,464 --> 01:12:18,757
+01:12:16,460 --> 01:12:18,750
 And I see there are no operands.
 I didn't put any after D.
 
 1005
-01:12:19,360 --> 01:12:21,507
+01:12:19,360 --> 01:12:21,500
 And it would say Oh, that's 25.
 
 1006
@@ -4643,30 +4642,30 @@ And it would say Oh, that's 25.
 Or I could say... just for completeness
 
 1007
-01:12:26,951 --> 01:12:30,357
+01:12:26,950 --> 01:12:30,350
 if I typed in what's
 the value of running A I get an error.
 
 1008
-01:12:31,481 --> 01:12:35,117
+01:12:31,480 --> 01:12:35,110
 The error would be
 the same one as over there.
 
 1009
-01:12:35,520 --> 01:12:39,032
+01:12:35,520 --> 01:12:39,030
 The error would say sorry, 25,
 
 1010
-01:12:39,460 --> 01:12:43,703
+01:12:39,460 --> 01:12:43,700
 which is the value of A, is not an
 operator that I can apply to something.
 
 1011
-01:12:45,041 --> 01:12:46,274
+01:12:45,040 --> 01:12:46,270
 OK.
 
 1012
-01:12:47,213 --> 01:12:52,857
+01:12:47,210 --> 01:12:52,850
 Subtitles created by Sergey Khenkin
 http://www.sicptitles.org
 
